@@ -7,7 +7,7 @@
 
 ---
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l1aTRpY3FndndxYjZscnJ5NmhveHQxcnVmYmNpZDVsYjRtajJrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBYZsvt2ahLg09qodC/giphy.gif" width="40" style="margin-bottom: -2px;" /> Mi Enfoque y Disponibilidad <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTlqaWJlNWJnZ2RraTJpdXp6MjRwYTN3amdhem83bDc2ZDlxYm5sbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMBvwrMgwJJ0L8DM9W/giphy.gif" width="35" style="margin-bottom: -2px;" />
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l1aTRpY3FndndxYjZscnJ5NmhveHQxcnVmYmNpZDVsYjRtajJrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBYZsvt2ahLg09qodC/giphy.gif" width="40" style="margin-bottom: -2px;" /> Mi Enfoque y Disponibilidad
 
 - 🟢 **Disponible para proyectos Freelance (Frontend UI):** Mi modelo de trabajo es directo: necesitas una interfaz UI premium, yo la construyo, te entrego el trabajo impecable y cerramos el proyecto.
 - 🔴 **Límites actuales (Solo Frontend):** Aunque poseo conocimientos full-stack, actualmente protego mi energía creativa para mis proyectos personales, por lo que *no estoy aceptando roles de Backend en este momento*. Mi disponibilidad está 100% enfocada en la creación de interfaces con Compose. En el futuro, abriré puertas al reclutamiento backend.
