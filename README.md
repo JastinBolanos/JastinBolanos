@@ -42,9 +42,3 @@ Actualmente trabajo en repositorios privados (próximos a publicarse) orientados
 </div>
 
 <br>
-
-<div align="center">
-
-[![Trofeos de JastinBolanos](https://github-profile-trophy.vercel.app/?username=JastinBolanos&theme=tokyonight&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
