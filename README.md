@@ -26,9 +26,10 @@
 
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHd6b29qeHVuYmM4Ymp1cjRiMnNmdWZndm40N3pncTZhbTMxY2l5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/J1Qp3RPpEiSZo1ItZj/giphy.gif" width="35" align="center" /> Proyectos Destacados y Demostraciones Técnicas <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2MzemZrd284ZHNiMGFiN29pbnN1cm52eGduZXZmNW42eTc0Z3h0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpvRzoMpaL4FZkdXzM/giphy.gif" width="50" align="center" />
 
-Actualmente trabajo en repositorios privados (próximos a publicarse) orientados a demostrar mi dominio en arquitecturas avanzadas y diseño UI de alto nivel:
+Desarrollo proyectos orientados a demostrar mi dominio en arquitecturas avanzadas y diseño UI de alto nivel, transitando de entornos privados a públicos como parte de mi portafolio oficial:
 
-- 🔒 **BovedaKMP & FieldSync (App de Logística):** *Demostraciones Técnicas (Pruebas de Concepto).* Estas aplicaciones no buscan ser productos finales, sino que están creadas específicamente como prueba viva de mi dominio en la arquitectura **offline-first**. Simulan entornos reales donde se procesan pagos y pedidos sin conexión a internet, ejecutando una sincronización automática y segura en segundo plano al recuperar la señal.
+- 🚀 **[Bóveda KMP](https://github.com/JastinBolanos/Boveda-KMP):** *Motor Financiero Offline-First (Público).* Aplicación creada específicamente como prueba viva de mi dominio en arquitecturas resilientes. Simula un entorno real donde se procesan transferencias sin conexión a internet, ejecutando una sincronización automática y segura en segundo plano al recuperar la señal.
+- 🔒 **FieldSync (App de Logística):** *Prueba de Concepto (Privado / Próximo a publicarse).* Sistema logístico avanzado que hereda y expande los principios de arquitectura offline-first para garantizar el flujo y procesamiento de pedidos en zonas de nula conectividad.
 - 🔒 **Remedioz Natura:** Un e-commerce diseñado para la realidad de los ciudadanos en Lima, Perú, implementando flujos de pago directos y eficientes que evitan las trabas burocráticas de pasarelas tradicionales.
 - ✨ **UI Premium Collection:** Una serie de tres proyectos centrados exclusivamente en diseño de interfaces de altísimo nivel. El primero de ellos está a punto de ser liberado al público.
 
