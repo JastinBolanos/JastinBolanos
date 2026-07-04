@@ -12,8 +12,8 @@
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l1aTRpY3FndndxYjZscnJ5NmhveHQxcnVmYmNpZDVsYjRtajJrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBYZsvt2ahLg09qodC/giphy.gif" width="40" style="margin-bottom: -2px;" /> Mi Enfoque y Disponibilidad
 
-- 🟢 **Disponible para proyectos Freelance (Frontend UI):** Mi modelo de trabajo es directo: necesitas una interfaz UI premium, yo la construyo, te entrego el trabajo impecable y cerramos el proyecto.
-- 🔴 **Límites actuales (Solo Frontend):** Aunque poseo conocimientos full-stack, actualmente protego mi energía creativa para mis proyectos personales, por lo que *no estoy aceptando roles de Backend en este momento*. Mi disponibilidad está 100% enfocada en la creación de interfaces con Compose. En el futuro, abriré puertas al reclutamiento backend.
+- **Disponible para proyectos Freelance (Frontend UI):** Mi modelo de trabajo es directo: necesitas una interfaz UI premium, yo la construyo, te entrego el trabajo impecable y cerramos el proyecto.
+- **Límites actuales (Solo Frontend):** Aunque poseo conocimientos full-stack, actualmente protego mi energía creativa para mis proyectos personales, por lo que *no estoy aceptando roles de Backend en este momento*. Mi disponibilidad está 100% enfocada en la creación de interfaces con Compose. En el futuro, abriré puertas al reclutamiento backend.
 
 ---
 
@@ -31,9 +31,13 @@
 
 Desarrollo proyectos orientados a demostrar mi dominio en arquitecturas avanzadas y diseño UI de alto nivel, transitando de entornos privados a públicos como parte de mi portafolio oficial:
 
-- **[Bóveda KMP](https://github.com/JastinBolanos/Boveda-KMP):** *Motor Financiero Offline-First (Público).* Aplicación creada específicamente como prueba viva de mi dominio en arquitecturas resilientes. Simula un entorno real donde se procesan transferencias sin conexión a internet, ejecutando una sincronización automática y segura en segundo plano al recuperar la señal.
+#### Proyectos Públicos y Finalizados
+- **[Bóveda KMP](https://github.com/JastinBolanos/Boveda-KMP):** *Motor Financiero Offline-First.* Aplicación creada específicamente como prueba viva de mi dominio en arquitecturas resilientes. Simula un entorno real donde se procesan transferencias sin conexión a internet, ejecutando una sincronización automática y segura en segundo plano al recuperar la señal.
+- **[NeoBankUI](https://github.com/JastinBolanos/NeoBankUI):** *Experiencia Fintech UI Premium.* Un despliegue técnico absoluto enfocado en llevar Compose Multiplatform al límite. Recrea la interfaz de un banco digital moderno con animaciones a 60fps, transiciones fluidas y un *pixel-perfect design* que garantiza una experiencia 100% nativa y de alto rendimiento tanto en iOS como en Android.
+
+#### En Laboratorio / Próximos a Publicarse
 - <img src="https://github.com/user-attachments/assets/38cb393f-ce61-46af-9059-750ab5ac233c" width="50" align="absmiddle" /> **Remedioz Natura:** Un e-commerce diseñado para la realidad de los ciudadanos en Lima, Perú, implementando flujos de pago directos y eficientes que evitan las trabas burocráticas de pasarelas tradicionales.
-- <img src="https://github.com/user-attachments/assets/38cb393f-ce61-46af-9059-750ab5ac233c" width="50" align="absmiddle" /> **UI Premium Collection:** Una serie de tres proyectos centrados exclusivamente en diseño de interfaces de altísimo nivel. El primero de ellos está a punto de ser liberado al público.
+- <img src="https://github.com/user-attachments/assets/38cb393f-ce61-46af-9059-750ab5ac233c" width="50" align="absmiddle" /> **UI Premium Collection:** Siguientes volúmenes de mi serie centrada exclusivamente en el diseño y arquitectura de interfaces de altísimo nivel.
 
 ---
 
