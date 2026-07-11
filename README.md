@@ -1,19 +1,23 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2MzemZrd284ZHNiMGFiN29pbnN1cm52eGduZXZmNW42eTc0Z3h0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpvRzoMpaL4FZkdXzM/giphy.gif" width="100" />
 </div>
+
 <h1 align="center">Hola, Soy Jastin Bolaños</h1>
-<h3 align="center">UI Frontend Engineer | Especialista en Kotlin Multiplatform & Compose</h3>
+<h3 align="center">Software Architect & UI Engineer | Especialista en Kotlin Multiplatform</h3>
 
 <p align="center">
-  Desde el primer día decidí no tomar el camino fácil. Mi filosofía como desarrollador se resume en una frase: <b>Kotlin es el futuro</b>. Tras un año inmerso en la programación, he dedicado los últimos meses de forma intensiva a dominar el desarrollo nativo y multiplataforma. Me especializo en traducir diseños en experiencias de usuario fluidas y de alta calidad, compartiendo código a través de <code>commonMain</code> para que funcionen a la perfección tanto en Web como en iOS y Android.
+  Desde el primer día decidí no tomar el camino fácil. Mi filosofía de ingeniería se resume en una premisa inquebrantable: <b>Kotlin es el estándar definitivo</b>. Me dedico a diseñar y construir arquitecturas multiplataforma de nivel empresarial <i>(Enterprise-Grade)</i>, especializándome en interfaces declarativas <i>Pixel-Perfect</i>, patrones <i>Offline-First</i> y un rigor absoluto en <i>Clean Architecture</i>. Mi enfoque radica en traducir requerimientos de negocio complejos en experiencias de usuario fluidas y escalables, orquestando toda la lógica central desde <code>commonMain</code> para desplegar aplicaciones nativas de altísimo rendimiento en iOS y Android.
 </p>
 
 ---
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l1aTRpY3FndndxYjZscnJ5NmhveHQxcnVmYmNpZDVsYjRtajJrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBYZsvt2ahLg09qodC/giphy.gif" width="40" style="margin-bottom: -2px;" /> Mi Enfoque y Disponibilidad
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l1aTRpY3FndndxYjZscnJ5NmhveHQxcnVmYmNpZDVsYjRtajJrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBYZsvt2ahLg09qodC/giphy.gif" width="40" style="margin-bottom: -2px;" /> Visión de Ingeniería y Compromiso
 
-- **Disponible para proyectos Freelance (Frontend UI):** Mi modelo de trabajo es directo: necesitas una interfaz UI premium, yo la construyo, te entrego el trabajo impecable y cerramos el proyecto.
-- **Límites actuales (Solo Frontend):** Aunque poseo conocimientos full-stack, actualmente protego mi energía creativa para mis proyectos personales, por lo que *no estoy aceptando roles de Backend en este momento*. Mi disponibilidad está 100% enfocada en la creación de interfaces con Compose. En el futuro, abriré puertas al reclutamiento backend.
+Mi enfoque profesional trasciende la ejecución técnica convencional. No busco simplemente completar tareas; busco transformar la visión del producto en activos digitales escalables, robustos y mantenibles a largo plazo.
+
+- **Arquitecturas de Alta Disponibilidad:** Mi filosofía de trabajo integra principios de <i>Clean Architecture</i> y gestión reactiva de estados, garantizando sistemas capaces de operar bajo condiciones críticas y alta concurrencia.
+- **Rigor en la Calidad:** Cada línea de código está sujeta a los estándares más exigentes del sector: desde la implementación de CI/CD automatizado hasta la configuración de protocolos de seguridad <i>DevSecOps</i>, asegurando que cada proyecto cumpla con métricas de nivel empresarial desde el día uno.
+- **Ejecución por Hitos y Resultados:** Mi metodología está diseñada para la entrega de soluciones de alto impacto bajo esquemas de proyectos definidos. Entiendo la importancia crítica de la precisión en los tiempos de entrega y la calidad del entregable final, garantizando que cada solución sea un activo de software independiente y eficiente.
 
 ---
 
@@ -47,7 +51,7 @@ Desarrollo proyectos orientados a demostrar mi dominio en arquitecturas avanzada
 </div>
 <br>
 
-- **[Remedioz Natura (E-Commerce KMP)](https://github.com/JastinBolanos/E-Commerce-KMP):** *Arquitectura Comercial Multiplataforma.* Un e-commerce diseñado para la realidad de los ciudadanos en Lima, Perú, implementando flujos de pago directos y eficientes que evitan las trabas burocráticas de pasarelas tradicionales.
+- **[Remedioz Natura (E-Commerce KMP)](https://github.com/JastinBolanos/E-Commerce-KMP):** *Frontend Multiplataforma & Arquitectura Comercial.* Demostración técnica enfocada exclusivamente en la capa de presentación. Implementa un ecosistema de compras B2C y un panel de administración B2B utilizando Clean Architecture y Compose Multiplatform. Destaca por su gestión de estado reactiva, flujos de navegación complejos y una UI escalable de alto rendimiento.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e625d058-e459-4338-ac97-7962f8863a87" width="120" />
