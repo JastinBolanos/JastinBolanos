@@ -27,7 +27,7 @@
 
 ---
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZzOTJyeTR2c2ppNGhtMXpndTJzMzQ2OWl2cWZnYml3eThsOGlhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q037SwL8KlFEsBeuDk/giphy.gif" width="60" align="center" />Proyectos Destacados y Demostraciones Técnicas
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZzOTJyeTR2c2ppNGhtMXpndTJzMzQ2OWl2cWZnYml3eThsOGlhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q037SwL8KlFEsBeuDk/giphy.gif" width="60" align="center" /> Proyectos Destacados y Demostraciones Técnicas
 
 Desarrollo proyectos orientados a demostrar mi dominio en arquitecturas avanzadas y diseño UI de alto nivel, transitando de entornos privados a públicos como parte de mi portafolio oficial:
 
@@ -47,10 +47,16 @@ Desarrollo proyectos orientados a demostrar mi dominio en arquitecturas avanzada
 </div>
 <br>
 
-#### En Laboratorio / Próximos a Publicarse
-- <img src="https://github.com/user-attachments/assets/38cb393f-ce61-46af-9059-750ab5ac233c" width="50" align="absmiddle" /> **Remedioz Natura:** Un e-commerce diseñado para la realidad de los ciudadanos en Lima, Perú, implementando flujos de pago directos y eficientes que evitan las trabas burocráticas de pasarelas tradicionales.
-- <img src="https://github.com/user-attachments/assets/38cb393f-ce61-46af-9059-750ab5ac233c" width="50" align="absmiddle" /> **UI Premium Collection:** Siguientes volúmenes de mi serie centrada exclusivamente en el diseño y arquitectura de interfaces de altísimo nivel.
+- **[Remedioz Natura (E-Commerce KMP)](https://github.com/JastinBolanos/E-Commerce-KMP):** *Arquitectura Comercial Multiplataforma.* Un e-commerce diseñado para la realidad de los ciudadanos en Lima, Perú, implementando flujos de pago directos y eficientes que evitan las trabas burocráticas de pasarelas tradicionales.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e625d058-e459-4338-ac97-7962f8863a87" width="120" />
+</div>
+<br>
+
+#### En Laboratorio / Próximos a Publicarse
+
+- <img src="https://github.com/user-attachments/assets/38cb393f-ce61-46af-9059-750ab5ac233c" width="50" align="absmiddle" />  **UI Premium Collection:** Siguientes volúmenes de mi serie centrada exclusivamente en el diseño y arquitectura de interfaces de altísimo nivel, estructurando código escalable y componentes visuales de vanguardia.
 ---
 
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc4YTI2NjVnbWZvOGQ4M2V1bndoNjFvd3Bqbm04cnVuYXRyMmwzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrOAylhpZm3dLnO5J/giphy.gif" width="55" align="center" /> Mis Estadísticas y Trofeos
@@ -61,3 +67,6 @@ Desarrollo proyectos orientados a demostrar mi dominio en arquitecturas avanzada
 </div>
 
 <br>
+
+
+
