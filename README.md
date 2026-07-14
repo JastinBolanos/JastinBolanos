@@ -11,7 +11,7 @@
 
 ---
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l1aTRpY3FndndxYjZscnJ5NmhveHQxcnVmYmNpZDVsYjRtajJrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBYZsvt2ahLg09qodC/giphy.gif" width="40" style="margin-bottom: -2px;" /> Engagement Model & Engineering Vision
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l1aTRpY3FndndxYjZscnJ5NmhveHQxcnVmYmNpZDVsYjRtajJrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBYZsvt2ahLg09qodC/giphy.gif" width="58" align="center" /> Engagement Model & Engineering Vision
 
 My professional approach transcends conventional technical execution. I operate as an independent technical partner, transforming product visions into robust and scalable digital assets.
 
@@ -21,7 +21,7 @@ My professional approach transcends conventional technical execution. I operate 
 
 ---
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdnbGUyYXRsM2lzdmk2dDJvODNhazliNWU3M2tma2F0bGdsdTdhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0mUTv7Yu0TFn0SGSN2/giphy.gif" width="40" align="center" /> Ecosystem and Tools 
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdnbGUyYXRsM2lzdmk2dDJvODNhazliNWU3M2tma2F0bGdsdTdhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0mUTv7Yu0TFn0SGSN2/giphy.gif" width="60" align="center" /> Ecosystem and Tools 
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -31,7 +31,7 @@ My professional approach transcends conventional technical execution. I operate 
 
 ---
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZzOTJyeTR2c2ppNGhtMXpndTJzMzQ2OWl2cWZnYml3eThsOGlhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q037SwL8KlFEsBeuDk/giphy.gif" width="60" align="center" /> Featured Projects and Technical Showcases
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZzOTJyeTR2c2ppNGhtMXpndTJzMzQ2OWl2cWZnYml3eThsOGlhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q037SwL8KlFEsBeuDk/giphy.gif" width="80" align="center" /> Featured Projects and Technical Showcases
 
 I develop projects aimed at demonstrating my mastery of advanced architectures and high-level UI design, transitioning from private to public environments as part of my official portfolio:
 
@@ -60,10 +60,10 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 
 ---
 
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc4YTI2NjVnbWZvOGQ4M2V1bndoNjFvd3Bqbm04cnVuYXRyMmwzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrOAylhpZm3dLnO5J/giphy.gif" width="55" align="center" /> My Stats and Trophies
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc4YTI2NjVnbWZvOGQ4M2V1bndoNjFvd3Bqbm04cnVuYXRyMmwzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrOAylhpZm3dLnO5J/giphy.gif" width="70" align="center" /> My Stats and Trophies
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JastinBolanos&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JastinBolanos&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
 <br>
