@@ -60,7 +60,7 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 
 ---
 
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc4YTI2NjVnbWZvOGQ4M2V1bndoNjFvd3Bqbm04cnVuYXRyMmwzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrOAylhpZm3dLnO5J/giphy.gif" width="70" align="center" /> My Stats and Trophies
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc4YTI2NjVnbWZvOGQ4M2V1bndoNjFvd3Bqbm04cnVuYXRyMmwzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrOAylhpZm3dLnO5J/giphy.gif" width="70" align="center" /> GitHub Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JastinBolanos&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak" />
