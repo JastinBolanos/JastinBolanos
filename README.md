@@ -15,9 +15,9 @@
 
 My professional approach transcends conventional technical execution. I operate as an independent technical partner, transforming product visions into robust and scalable digital assets.
 
-- **Milestone-Driven Independent Consulting:** I work exclusively on a project basis, architecting anything from complete end-to-end frontend ecosystems to specialized UI modules. Engagement and compensation are structured around verifiable delivery stages (milestones), ensuring that your investment translates into tangible results and premium code quality.
-- **High-Availability Architectures:** My work philosophy integrates *Clean Architecture* principles and reactive state management, guaranteeing systems capable of operating under critical conditions and high concurrency levels.
-- **Premium UI & Native Performance:** I specialize in pushing the boundaries of Compose Multiplatform. I deliver *pixel-perfect* interfaces with 60fps animations and fluid transitions, ensuring an uncompromising, 100% native user experience across both iOS and Android platforms.
+- **⚡Milestone-Driven Independent Consulting:** I work exclusively on a project basis, architecting anything from complete end-to-end frontend ecosystems to specialized UI modules. Engagement and compensation are structured around verifiable delivery stages (milestones), ensuring that your investment translates into tangible results and premium code quality.
+- **⚡High-Availability Architectures:** My work philosophy integrates *Clean Architecture* principles and reactive state management, guaranteeing systems capable of operating under critical conditions and high concurrency levels.
+- **⚡Premium UI & Native Performance:** I specialize in pushing the boundaries of Compose Multiplatform. I deliver *pixel-perfect* interfaces with 60fps animations and fluid transitions, ensuring an uncompromising, 100% native user experience across both iOS and Android platforms.
 
 ---
 
