@@ -37,7 +37,8 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 
 #### Public and Completed Projects
 
-- **[Bóveda KMP](https://github.com/JastinBolanos/Boveda-KMP):** *Offline-First Financial Engine.* Application created specifically as living proof of my mastery in resilient architectures. It simulates a real environment where offline transfers are processed, executing an automatic and secure background synchronization upon regaining signal.
+- **[Bóveda KMP](https://github.com/JastinBolanos/Boveda-KMP):** *Offline-First Financial Engine.* Application created specifically as living proof of my mastery in resilient architectures. It simulates a real environment where offline transfers are processed, executing an automatic and secure background synchronization upon regaining signal. **[Download APK](https://github.com/JastinBolanos/Boveda-KMP/releases/download/v1.0.0/BovedaKMP.apk)** 
+  <br> 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2e080361-8be6-48d3-a737-58be5f46930d" width="120" />
