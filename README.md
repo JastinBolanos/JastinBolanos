@@ -11,7 +11,7 @@
 
 ---
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l1aTRpY3FndndxYjZscnJ5NmhveHQxcnVmYmNpZDVsYjRtajJrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBYZsvt2ahLg09qodC/giphy.gif" width="58" align="center" /> Engagement Model & Engineering Vision
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l1aTRpY3FndndxYjZscnJ5NmhveHQxcnVmYmNpZDVsYjRtajJrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBYZsvt2ahLg09qodC/giphy.gif" width="50" align="center" /> Engagement Model & Engineering Vision
 
 My professional approach transcends conventional technical execution. I operate as an independent technical partner, transforming product visions into tangible digital assets.
 
@@ -21,7 +21,7 @@ My professional approach transcends conventional technical execution. I operate 
 
 ---
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdnbGUyYXRsM2lzdmk2dDJvODNhazliNWU3M2tma2F0bGdsdTdhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0mUTv7Yu0TFn0SGSN2/giphy.gif" width="60" align="center" /> Ecosystem and Tools 
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdnbGUyYXRsM2lzdmk2dDJvODNhazliNWU3M2tma2F0bGdsdTdhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0mUTv7Yu0TFn0SGSN2/giphy.gif" width="50" align="center" /> Ecosystem and Tools 
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -31,7 +31,7 @@ My professional approach transcends conventional technical execution. I operate 
 
 ---
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNmNTFpbnN2MWJ0ZDNicHJpbzVmNm45cDJmMnNtdHFjcmc0aXB5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8QiXMPhQoLL2X0AbJ8/giphy.gif" width="50" align="center" /> Featured Projects and Technical Showcases
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNmNTFpbnN2MWJ0ZDNicHJpbzVmNm45cDJmMnNtdHFjcmc0aXB5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8QiXMPhQoLL2X0AbJ8/giphy.gif" width="45" align="center" />  Featured Projects and Technical Showcases
 
 I develop projects aimed at demonstrating my mastery of advanced architectures and high-level UI design, transitioning from private to public environments as part of my official portfolio:
 
