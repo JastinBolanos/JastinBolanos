@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Jastin Bolaños</h1>
-<h3 align="center">Software Architect | Kotlin Multiplatform & Full-Stack Solutions</h3>
+<h3 align="center">Mobile Product Engineer | Kotlin Multiplatform & Full-Stack Specialist</h3>
 
 <p align="center">
   From day one, I decided not to take the easy path. My engineering philosophy boils down to an unshakeable premise: <b>Kotlin is the ultimate standard</b>. I specialize in translating complex business requirements into robust digital products. Whether you need a standalone <i>Pixel-Perfect</i> declarative interface, a secure backend architecture, or a complete end-to-end application, I orchestrate the core logic from <code>commonMain</code> to deploy ultra-high-performance native solutions on iOS and Android.
@@ -45,7 +45,7 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 </div>
 <br>
 
-- **[NeoBankUI](https://github.com/JastinBolanos/NeoBankUI-KMP):** *Premium Fintech UI Experience.* An absolute technical showcase focused on pushing Compose Multiplatform to the limit. It recreates the interface of a modern digital bank with 60fps animations, fluid transitions, and a *pixel-perfect design* that guarantees a 100% native and high-performance experience on both iOS and Android.
+- **[NeoBankUI](https://github.com/JastinBolanos/NeoBankUI-KMP):** *Premium Fintech UI Experience.* An absolute technical showcase focused on pushing Compose Multiplatform to the limit. It recreates the interface of a modern digital bank with 60fps animations, fluid transitions, and a *pixel-perfect design* that guarantees a 100% native and high-performance experience on both iOS and Android. **[Download APK](https://github.com/JastinBolanos/NeoBankUI-KMP/releases/download/v1.0.0/NeoBankUI.apk)**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/95e073f3-62e5-44e2-aaa2-7bf37439808e" width="120" />
