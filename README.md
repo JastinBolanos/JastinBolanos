@@ -3,21 +3,21 @@
 </div>
 
 <h1 align="center">Hi, I'm Jastin Bolaños</h1>
-<h3 align="center">Software Architect & UI Engineer | Kotlin Multiplatform Specialist</h3>
+<h3 align="center">Software Architect | Kotlin Multiplatform & Full-Stack Solutions</h3>
 
 <p align="center">
-  From day one, I decided not to take the easy path. My engineering philosophy boils down to an unshakeable premise: <b>Kotlin is the ultimate standard</b>. I am dedicated to designing and building multiplatform <i>Enterprise-Grade</i> architectures, specializing in <i>Pixel-Perfect</i> declarative interfaces, <i>Offline-First</i> patterns, and absolute rigor in <i>Clean Architecture</i>. My focus lies in translating complex business requirements into fluid and scalable user experiences, orchestrating all the core logic from <code>commonMain</code> to deploy ultra-high-performance native applications on iOS and Android.
+  From day one, I decided not to take the easy path. My engineering philosophy boils down to an unshakeable premise: <b>Kotlin is the ultimate standard</b>. I specialize in translating complex business requirements into robust digital products. Whether you need a standalone <i>Pixel-Perfect</i> declarative interface, a secure backend architecture, or a complete end-to-end application, I orchestrate the core logic from <code>commonMain</code> to deploy ultra-high-performance native solutions on iOS and Android.
 </p>
 
 ---
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l1aTRpY3FndndxYjZscnJ5NmhveHQxcnVmYmNpZDVsYjRtajJrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBYZsvt2ahLg09qodC/giphy.gif" width="58" align="center" /> Engagement Model & Engineering Vision
 
-My professional approach transcends conventional technical execution. I operate as an independent technical partner, transforming product visions into robust and scalable digital assets.
+My professional approach transcends conventional technical execution. I operate as an independent technical partner, transforming product visions into tangible digital assets.
 
-- **⚡Milestone-Driven Independent Consulting:** I work exclusively on a project basis, architecting anything from complete end-to-end frontend ecosystems to specialized UI modules. Engagement and compensation are structured around verifiable delivery stages (milestones), ensuring that your investment translates into tangible results and premium code quality.
-- **⚡High-Availability Architectures:** My work philosophy integrates *Clean Architecture* principles and reactive state management, guaranteeing systems capable of operating under critical conditions and high concurrency levels.
-- **⚡Premium UI & Native Performance:** I specialize in pushing the boundaries of Compose Multiplatform. I deliver *pixel-perfect* interfaces with 60fps animations and fluid transitions, ensuring an uncompromising, 100% native user experience across both iOS and Android platforms.
+- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> A La Carte or End-to-End Delivery:** I adapt to your product needs. I can architect complete full-stack applications (Frontend + Backend), focus solely on developing high-performance UI modules, or build resilient backend integrations. 
+- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> Milestone-Driven Independent Consulting:** I work exclusively on a project basis. Engagement and compensation are structured around verifiable delivery stages, ensuring that your investment translates into results and premium code quality.
+- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> High-Availability & Premium Native UI:** My architectures are built for resilience, integrating *Offline-First* patterns and reactive state management. Simultaneously, I push the boundaries of Compose Multiplatform to deliver *pixel-perfect* interfaces with 60fps animations across iOS and Android.
 
 ---
 
@@ -25,13 +25,13 @@ My professional approach transcends conventional technical execution. I operate 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma,git,github,firebase,supabase&theme=dark&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=kotlin,apple,androidstudio,figma,git,github,firebase,supabase,gcp,windows,linux,wasm&theme=dark&perline=10" alt="My Skills" />
   </a>
 </div>
 
 ---
 
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXZzOTJyeTR2c2ppNGhtMXpndTJzMzQ2OWl2cWZnYml3eThsOGlhdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q037SwL8KlFEsBeuDk/giphy.gif" width="80" align="center" /> Featured Projects and Technical Showcases
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNmNTFpbnN2MWJ0ZDNicHJpbzVmNm45cDJmMnNtdHFjcmc0aXB5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8QiXMPhQoLL2X0AbJ8/giphy.gif" width="50" align="center" /> Featured Projects and Technical Showcases
 
 I develop projects aimed at demonstrating my mastery of advanced architectures and high-level UI design, transitioning from private to public environments as part of my official portfolio:
 
@@ -69,3 +69,5 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 </div>
 
 <br>
+
+---
