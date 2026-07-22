@@ -52,7 +52,7 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 </div>
 <br>
 
-- **[Remedioz Natura (E-Commerce KMP)](https://github.com/JastinBolanos/E-Commerce-KMP):** *Multiplatform Frontend & Commercial Architecture.* Technical showcase focused exclusively on the presentation layer. It implements a B2C shopping ecosystem and a B2B administration panel using Clean Architecture and Compose Multiplatform. It stands out for its reactive state management, complex navigation flows, and a high-performance scalable UI. **[Download APK](https://github.com/JastinBolanos/E-Commerce-KMP/releases/download/v1.1.0/E-CommerceKMP.apk)** 
+- **[Remedioz Natura (E-Commerce KMP)](https://github.com/JastinBolanos/E-Commerce-KMP):** *Multiplatform Frontend & Commercial Architecture.* Technical showcase focused exclusively on the presentation layer. It implements a B2C shopping ecosystem and a B2B administration panel using Clean Architecture and Compose Multiplatform. It stands out for its reactive state management, complex navigation flows, and a high-performance scalable UI. **[Download APK](https://github.com/JastinBolanos/E-Commerce-KMP/releases/download/v1.2.0/E-CommerceKMP.apk)** 
   <br> 
 
 <div align="center">
