@@ -37,7 +37,7 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 
 #### Public and Completed Projects
 
-- **[Bóveda KMP](https://github.com/JastinBolanos/Boveda-KMP):** *Offline-First Financial Engine.* Application created specifically as living proof of my mastery in resilient architectures. It simulates a real environment where offline transfers are processed, executing an automatic and secure background synchronization upon regaining signal. **[Download APK](https://github.com/JastinBolanos/Boveda-KMP/releases/download/v1.0.0/BovedaKMP.apk)** 
+- **[Vault KMP](https://github.com/JastinBolanos/Boveda-KMP):** *Offline-First Financial Engine.* Application created specifically as living proof of my mastery in resilient architectures. It simulates a real environment where offline transfers are processed, executing an automatic and secure background synchronization upon regaining signal. **[Download APK](https://github.com/JastinBolanos/Boveda-KMP/releases/download/v1.0.0/BovedaKMP.apk)** 
   <br> 
 
 <div align="center">
@@ -52,7 +52,7 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 </div>
 <br>
 
-- **[Remedioz Natura (E-Commerce KMP)](https://github.com/JastinBolanos/E-Commerce-KMP):** *Multiplatform Frontend & Commercial Architecture.* Technical showcase focused exclusively on the presentation layer. It implements a B2C shopping ecosystem and a B2B administration panel using Clean Architecture and Compose Multiplatform. It stands out for its reactive state management, complex navigation flows, and a high-performance scalable UI. **[Download APK](https://github.com/JastinBolanos/E-Commerce-KMP/releases/download/v1.2.0/E-CommerceKMP.apk)** 
+- **[E-Commerce KMP](https://github.com/JastinBolanos/E-Commerce-KMP):** *Multiplatform Frontend & Commercial Architecture.* Technical showcase focused exclusively on the presentation layer. It implements a B2C shopping ecosystem and a B2B administration panel using Clean Architecture and Compose Multiplatform. It stands out for its reactive state management, complex navigation flows, and a high-performance scalable UI. **[Download APK](https://github.com/JastinBolanos/E-Commerce-KMP/releases/download/v1.2.0/E-CommerceKMP.apk)** 
   <br> 
 
 <div align="center">
