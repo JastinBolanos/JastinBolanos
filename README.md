@@ -45,7 +45,7 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 </div>
 <br>
 
-- **[NeoBankUI](https://github.com/JastinBolanos/NeoBankUI-KMP):** *Premium Fintech UI Experience.* An absolute technical showcase focused on pushing Compose Multiplatform to the limit. It recreates the interface of a modern digital bank with 60fps animations, fluid transitions, and a *pixel-perfect design* that guarantees a 100% native and high-performance experience on both iOS and Android. **[Download APK](https://github.com/JastinBolanos/NeoBankUI-KMP/releases/download/v1.0.0/NeoBankUI.apk)**
+- **[NeoBank KMP](https://github.com/JastinBolanos/NeoBankUI-KMP):** *Premium Fintech UI Experience.* An absolute technical showcase focused on pushing Compose Multiplatform to the limit. It recreates the interface of a modern digital bank with 60fps animations, fluid transitions, and a *pixel-perfect design* that guarantees a 100% native and high-performance experience on both iOS and Android. **[Download APK](https://github.com/JastinBolanos/NeoBankUI-KMP/releases/download/v1.0.0/NeoBankUI.apk)**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/95e073f3-62e5-44e2-aaa2-7bf37439808e" width="120" />
