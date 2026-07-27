@@ -1,12 +1,8 @@
 <div align="center">
-  <img width="100%" alt="Kotlin Multiplatform & Full Stack Banner" src="https://github.com/user-attachments/assets/f38ab3be-1511-4579-bb8a-fb2c98de0592" />
+  <img width="100%" alt="Kotlin Multiplatform & Full Stack Banner" src="https://github.com/user-attachments/assets/805becac-2571-46e3-a868-ac71587cbdf9" />
 </div>
 
-<h1 align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2MzemZrd284ZHNiMGFiN29pbnN1cm52eGduZXZmNW42eTc0Z3h0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpvRzoMpaL4FZkdXzM/giphy.gif" width="50" align="absmiddle" />
-  Hi, I'm Jastin Bolaños
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2MzemZrd284ZHNiMGFiN29pbnN1cm52eGduZXZmNW42eTc0Z3h0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpvRzoMpaL4FZkdXzM/giphy.gif" width="60" align="absmiddle" />
-</h1>
+<h1 align="center">Hi, I'm Jastin Bolaños</h1>
 
 <h3 align="center">Mobile Product Engineer | Kotlin Multiplatform & Full-Stack Specialist</h3>
 
