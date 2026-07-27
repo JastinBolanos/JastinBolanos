@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Kotlin Multiplatform & Full Stack Banner" src="https://github.com/user-attachments/assets/28bd0541-cabd-47ef-9296-5dc4e0c1fbb1" />
+  <img width="100%" alt="Kotlin Multiplatform & Full Stack Banner" src="https://github.com/user-attachments/assets/f38ab3be-1511-4579-bb8a-fb2c98de0592" />
 </div>
 
 <h1 align="center">
