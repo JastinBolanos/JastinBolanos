@@ -1,13 +1,13 @@
 <div align="center">
-  <img width="100%" alt="Kotlin Multiplatform & Full Stack Banner" src="https://github.com/user-attachments/assets/805becac-2571-46e3-a868-ac71587cbdf9" />
+  <img width="100%" alt="Kotlin Multiplatform & Full Stack Banner | iOS · Android · Web" src="https://github.com/user-attachments/assets/805becac-2571-46e3-a868-ac71587cbdf9" />
 </div>
 
 <h1 align="center">Hi, I'm Jastin Bolaños</h1>
 
-<h3 align="center">Mobile Product Engineer | Kotlin Multiplatform & Full-Stack Specialist</h3>
+<h3 align="center">Mobile & Web Product Engineer | Kotlin Multiplatform & Full-Stack Specialist</h3>
 
 <p align="center">
-  From day one, I decided not to take the easy path. My engineering philosophy boils down to an unshakeable premise: <b>Kotlin is the ultimate standard</b>. I specialize in translating complex business requirements into robust digital products. Whether you need a standalone <i>Pixel-Perfect</i> declarative interface, a secure backend architecture, or a complete end-to-end application, I orchestrate the core logic from <code>commonMain</code> to deploy ultra-high-performance native solutions on iOS and Android.
+  From day one, I decided not to take the easy path. My engineering philosophy boils down to an unshakeable premise: <b>Kotlin is the ultimate standard</b>. I specialize in translating complex business requirements into robust digital products. Whether you need a standalone <i>Pixel-Perfect</i> declarative interface, a secure backend architecture, or a complete end-to-end application, I orchestrate the core logic from <code>commonMain</code> to deploy ultra-high-performance native solutions on iOS, Android and Web.
 </p>
 
 ---
@@ -16,9 +16,9 @@
 
 My professional approach transcends conventional technical execution. I operate as an independent technical partner, transforming product visions into tangible digital assets.
 
-- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> A La Carte or End-to-End Delivery:** I adapt to your product needs. I can architect complete full-stack applications (Frontend + Backend), focus solely on developing high-performance UI modules, or build resilient backend integrations. 
+- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> A La Carte or End-to-End Delivery:** I adapt to your product needs. I can architect complete full-stack applications (Web Frontend + Mobile + Backend), focus solely on developing high-performance UI modules, or build resilient backend integrations. 
 - **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> Milestone-Driven Independent Consulting:** I work exclusively on a project basis. Engagement and compensation are structured around verifiable delivery stages, ensuring that your investment translates into results and premium code quality.
-- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> High-Availability & Premium Native UI:** My architectures are built for resilience, integrating *Offline-First* patterns and reactive state management. Simultaneously, I push the boundaries of Compose Multiplatform to deliver *pixel-perfect* interfaces with 60fps animations across iOS and Android.
+- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> High-Availability & Premium Native UI:** My architectures are built for resilience, integrating *Offline-First* patterns and reactive state management. Simultaneously, I push the boundaries of Compose Multiplatform to deliver *pixel-perfect* interfaces with 60fps animations across iOS, Android and Web.
 
 ---
 
