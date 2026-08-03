@@ -72,3 +72,9 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 <br>
 
 ---
+
+### <img src="https://github.com/user-attachments/assets/66b8c48b-3d21-4519-8c5e-dfd9f69140c6" width="45" align="center" />  Let's Build Something Great
+
+If my engineering vision aligns with your product needs, I am currently available for new freelance opportunities. 
+
+**To request a quote or discuss a project, please reach out to me directly through the freelance platform where you discovered my profile.** This ensures all communications and project milestones remain secure and compliant with the platform's guidelines.
