@@ -53,11 +53,11 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 </div>
 <br>
 
-- **[E-Commerce KMP](https://github.com/JastinBolanos/E-Commerce-KMP):** *Multiplatform Frontend & Commercial Architecture.* Technical showcase focused exclusively on the presentation layer. It implements a B2C shopping ecosystem and a B2B administration panel using Clean Architecture and Compose Multiplatform. It stands out for its reactive state management, complex navigation flows, and a high-performance scalable UI. **[Download APK](https://github.com/JastinBolanos/E-Commerce-KMP/releases/download/v1.2.0/E-CommerceKMP.apk)** 
+- **[E-Commerce KMP](https://github.com/JastinBolanos/E-Commerce-KMP):** *Multiplatform Frontend & Commercial Architecture for Android, iOS, and Web (Wasm).* Technical showcase focused exclusively on the presentation layer. It implements a B2C shopping ecosystem and a B2B administration panel using Clean Architecture and Compose Multiplatform. It stands out for its reactive state management, complex navigation flows, and a high-performance scalable UI. **[Download APK](https://github.com/JastinBolanos/E-Commerce-KMP/releases/download/v2.0.0/E-CommerceKMP.apk)** 
   <br> 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e625d058-e459-4338-ac97-7962f8863a87" width="120" />
+  <img src="https://github.com/user-attachments/assets/b862b36c-c975-40c4-99d8-33df26c2d2a8" width="120" />
 </div>
 <br>
 
