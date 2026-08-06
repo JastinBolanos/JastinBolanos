@@ -32,11 +32,27 @@ My professional approach transcends conventional technical execution. I operate 
 
 ---
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNmNTFpbnN2MWJ0ZDNicHJpbzVmNm45cDJmMnNtdHFjcmc0aXB5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8QiXMPhQoLL2X0AbJ8/giphy.gif" width="45" align="center" />  Featured Projects and Technical Showcases
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNmNTFpbnN2MWJ0ZDNicHJpbzVmNm45cDJmMnNtdHFjcmc0aXB5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8QiXMPhQoLL2X0AbJ8/giphy.gif" width="45" align="center" /> Featured Projects and Technical Showcases
 
 I develop projects aimed at demonstrating my mastery of advanced architectures and high-level UI design, transitioning from private to public environments as part of my official portfolio:
 
 #### Public and Completed Projects
+
+- **[LopsAI KMP](https://github.com/JastinBolanos/LopsAI-KMP):** *Elite AI Frontend Ecosystem & Premium UI Architecture.* A complete, production-ready AI assistant application delivering native fluidity across Android, iOS, and WebAssembly (Wasm). Engineered with a reactive Glassmorphic interface, dynamic living backgrounds, and cinematic Typewriter effects from a 100% shared Kotlin codebase. It bypasses legacy DOM limitations to provide a hyper-fluid, native-app experience directly within the web. **[Download APK](https://github.com/JastinBolanos/LopsAI-KMP/releases/download/v1.0.0/LopsAI.apk)**
+  <br> 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/946f6558-d896-4dfd-a231-5452323e6077" width="130" />
+</div>
+<br>
+
+- **[E-Commerce KMP](https://github.com/JastinBolanos/E-Commerce-KMP):** *Multiplatform Frontend & Commercial Architecture for Android, iOS, and Web (Wasm).* Technical showcase focused exclusively on the presentation layer. It implements a B2C shopping ecosystem and a B2B administration panel using Clean Architecture and Compose Multiplatform. It stands out for its reactive state management, complex navigation flows, and a high-performance scalable UI. **[Download APK](https://github.com/JastinBolanos/E-Commerce-KMP/releases/download/v2.0.0/E-CommerceKMP.apk)** 
+  <br> 
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b862b36c-c975-40c4-99d8-33df26c2d2a8" width="120" />
+</div>
+<br>
 
 - **[Vault KMP](https://github.com/JastinBolanos/Boveda-KMP):** *Offline-First Financial Engine.* Application created specifically as living proof of my mastery in resilient architectures. It simulates a real environment where offline transfers are processed, executing an automatic and secure background synchronization upon regaining signal. **[Download APK](https://github.com/JastinBolanos/Boveda-KMP/releases/download/v1.0.0/BovedaKMP.apk)** 
   <br> 
@@ -52,16 +68,6 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
   <img src="https://github.com/user-attachments/assets/95e073f3-62e5-44e2-aaa2-7bf37439808e" width="120" />
 </div>
 <br>
-
-- **[E-Commerce KMP](https://github.com/JastinBolanos/E-Commerce-KMP):** *Multiplatform Frontend & Commercial Architecture for Android, iOS, and Web (Wasm).* Technical showcase focused exclusively on the presentation layer. It implements a B2C shopping ecosystem and a B2B administration panel using Clean Architecture and Compose Multiplatform. It stands out for its reactive state management, complex navigation flows, and a high-performance scalable UI. **[Download APK](https://github.com/JastinBolanos/E-Commerce-KMP/releases/download/v2.0.0/E-CommerceKMP.apk)** 
-  <br> 
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b862b36c-c975-40c4-99d8-33df26c2d2a8" width="120" />
-</div>
-<br>
-
----
 
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc4YTI2NjVnbWZvOGQ4M2V1bndoNjFvd3Bqbm04cnVuYXRyMmwzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrOAylhpZm3dLnO5J/giphy.gif" width="70" align="center" /> GitHub Streak
 
