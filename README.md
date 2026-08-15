@@ -4,10 +4,10 @@
 
 <h1 align="center">Hi, I'm Jastin Bolaños</h1>
 
-<h3 align="center">Mobile & Web Product Engineer | Kotlin Multiplatform & Full-Stack Specialist</h3>
+<h3 align="center">Software Engineer | Android Native & Kotlin Multiplatform Architect</h3>
 
 <p align="center">
-  From day one, I decided not to take the easy path. My engineering philosophy boils down to an unshakeable premise: <b>Kotlin is the ultimate standard</b>. I specialize in translating complex business requirements into robust digital products. Whether you need a standalone <i>Pixel-Perfect</i> declarative interface, a secure backend architecture, or a complete end-to-end application, I orchestrate the core logic from <code>commonMain</code> to deploy ultra-high-performance native solutions on iOS, Android and Web.
+  From day one, I decided not to take the easy path. My engineering philosophy boils down to an unshakeable premise: <b>Kotlin is the ultimate standard</b>. I specialize in translating complex business requirements into robust digital products. Whether you need a secure backend architecture or a complete end-to-end application, I orchestrate the core logic from <code>commonMain</code> to deploy ultra-high-performance native Android solutions today, while future-proofing the architecture to seamlessly scale to iOS and Web tomorrow.
 </p>
 
 ---
@@ -16,9 +16,9 @@
 
 My professional approach transcends conventional technical execution. I operate as an independent technical partner, transforming product visions into tangible digital assets.
 
-- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> A La Carte or End-to-End Delivery:** I adapt to your product needs. I can architect complete full-stack applications (Web Frontend + Mobile + Backend), focus solely on developing high-performance UI modules, or build resilient backend integrations. 
+- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> Future-Proof Architecture (KMP):** I build the engine of your business using Kotlin Multiplatform. Your core logic (networking, databases, state) is 100% shared, meaning your Android app is architecturally ready to scale to iOS natively without rewriting the business rules.
 - **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> Milestone-Driven Independent Consulting:** I work exclusively on a project basis. Engagement and compensation are structured around verifiable delivery stages, ensuring that your investment translates into results and premium code quality.
-- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> High-Availability & Premium Native UI:** My architectures are built for resilience, integrating *Offline-First* patterns and reactive state management. Simultaneously, I push the boundaries of Compose Multiplatform to deliver *pixel-perfect* interfaces with 60fps animations across iOS, Android and Web.
+- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> High-Availability & Premium Native UI:** My architectures are built for resilience, integrating *Offline-First* patterns and reactive state management. Simultaneously, I push the boundaries of Jetpack Compose to deliver *pixel-perfect* Android interfaces with fluid 60fps animations.
 
 ---
 
@@ -38,7 +38,7 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 
 #### Public and Completed Projects
 
-- **[LopsAI KMP](https://github.com/JastinBolanos/LopsAI-KMP):** *Elite AI Frontend Ecosystem & Premium UI Architecture.* A complete, production-ready AI assistant application delivering native fluidity across Android, iOS, and WebAssembly (Wasm). Engineered with a reactive Glassmorphic interface, dynamic living backgrounds, and cinematic Typewriter effects from a 100% shared Kotlin codebase. It bypasses legacy DOM limitations to provide a hyper-fluid, native-app experience directly within the web. **[Download APK](https://github.com/JastinBolanos/LopsAI-KMP/releases/download/v1.0.0/LopsAI.apk)**
+- **[LopsAI KMP](https://github.com/JastinBolanos/LopsAI-KMP):** *Elite AI Frontend Ecosystem & Premium UI Architecture.* A complete, production-ready AI assistant application delivering native fluidity on Android. Engineered with a reactive Glassmorphic interface, dynamic living backgrounds, and cinematic Typewriter effects from a 100% shared Kotlin codebase that is architecturally prepared for future iOS and WebAssembly (Wasm) scalability. **[Download APK](https://github.com/JastinBolanos/LopsAI-KMP/releases/download/v1.0.0/LopsAI.apk)**
   <br> 
 
 <div align="center">
@@ -46,7 +46,7 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 </div>
 <br>
 
-- **[E-Commerce KMP](https://github.com/JastinBolanos/E-Commerce-KMP):** *Multiplatform Frontend & Commercial Architecture for Android, iOS, and Web (Wasm).* Technical showcase focused exclusively on the presentation layer. It implements a B2C shopping ecosystem and a B2B administration panel using Clean Architecture and Compose Multiplatform. It stands out for its reactive state management, complex navigation flows, and a high-performance scalable UI. **[Download APK](https://github.com/JastinBolanos/E-Commerce-KMP/releases/download/v2.0.0/E-CommerceKMP.apk)** 
+- **[E-Commerce KMP](https://github.com/JastinBolanos/E-Commerce-KMP):** *Android Native UI & Multiplatform Commercial Architecture.* Technical showcase focused on the presentation and business layers. It implements a B2C shopping ecosystem and a B2B administration panel using Clean Architecture. It stands out for its reactive state management, complex navigation flows, and a high-performance scalable UI powered by a shared business logic engine. **[Download APK](https://github.com/JastinBolanos/E-Commerce-KMP/releases/download/v2.0.0/E-CommerceKMP.apk)** 
   <br> 
 
 <div align="center">
@@ -54,7 +54,7 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 </div>
 <br>
 
-- **[Vault KMP](https://github.com/JastinBolanos/Boveda-KMP):** *Offline-First Financial Engine.* Application created specifically as living proof of my mastery in resilient architectures. It simulates a real environment where offline transfers are processed, executing an automatic and secure background synchronization upon regaining signal. **[Download APK](https://github.com/JastinBolanos/Boveda-KMP/releases/download/v1.2.0/BovedaKMP.apk)** 
+- **[Vault KMP](https://github.com/JastinBolanos/Boveda-KMP):** *Offline-First Financial Engine.* Application created specifically as living proof of my mastery in resilient architectures. It simulates a real environment where offline transfers are processed locally, executing an automatic and secure background synchronization upon regaining signal. The core financial engine is completely decoupled and multiplatform-ready. **[Download APK](https://github.com/JastinBolanos/Boveda-KMP/releases/download/v1.2.0/BovedaKMP.apk)** 
   <br> 
 
 <div align="center">
@@ -62,7 +62,7 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 </div>
 <br>
 
-- **[NeoBank KMP](https://github.com/JastinBolanos/NeoBankUI-KMP):** *Premium Fintech UI Experience.* An absolute technical showcase focused on pushing Compose Multiplatform to the limit. It recreates the interface of a modern digital bank with 60fps animations, fluid transitions, and a *pixel-perfect design* that guarantees a 100% native and high-performance experience on both iOS and Android. **[Download APK](https://github.com/JastinBolanos/NeoBankUI-KMP/releases/download/v1.1.0/NeoBankUI.apk)**
+- **[NeoBank KMP](https://github.com/JastinBolanos/NeoBankUI-KMP):** *Premium Fintech UI Experience.* An absolute technical showcase focused on pushing declarative UI to the limit. It recreates the interface of a modern digital bank with fluid transitions and a *pixel-perfect design* that guarantees a 100% native and high-performance Android experience, built on a shared visual architecture. **[Download APK](https://github.com/JastinBolanos/NeoBankUI-KMP/releases/download/v1.1.0/NeoBankUI.apk)**
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/95e073f3-62e5-44e2-aaa2-7bf37439808e" width="120" />
@@ -79,8 +79,8 @@ I develop projects aimed at demonstrating my mastery of advanced architectures a
 
 ---
 
-### <img src="https://github.com/user-attachments/assets/66b8c48b-3d21-4519-8c5e-dfd9f69140c6" width="45" align="center" />  Let's Build Something Great
-
-If my engineering vision aligns with your product needs, I am currently available for new freelance opportunities. 
-
-**To request a quote or discuss a project, please reach out to me directly through the freelance platform where you discovered my profile.** This ensures all communications and project milestones remain secure and compliant with the platform's guidelines.
+<div align="center">
+  <h3><img src="https://github.com/user-attachments/assets/66b8c48b-3d21-4519-8c5e-dfd9f69140c6" width="35" align="absmiddle" /> Ready to build your next digital product?</h3>
+  <p>If you loved these architectures and need a premium native interface powered by a robust backend, <b>I am currently available for new freelance opportunities.</b></p>
+  <p>To request a quote or discuss a project, <b>please reach out to me directly through the freelance platform where you discovered my profile.</b><br>This ensures all communications and project milestones remain secure and compliant with the platform's guidelines.</p>
+</div>
