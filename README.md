@@ -26,7 +26,7 @@ My professional approach transcends conventional technical execution. I operate 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,apple,androidstudio,figma,git,github,firebase,supabase,gcp,windows,linux,wasm&theme=dark&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma,git,github,firebase,supabase,flutter,dart,gcp&theme=dark&perline=10" alt="My Skills" />
   </a>
 </div>
 
