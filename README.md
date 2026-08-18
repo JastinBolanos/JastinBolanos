@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Kotlin Multiplatform & Full Stack Banner | iOS · Android · Web" src="https://github.com/user-attachments/assets/9b6ff00c-2982-47cf-9dbd-2b568f0c0b76" />
+  <img width="100%" alt="Kotlin Multiplatform & Full Stack Banner | iOS · Android · Web" src="https://github.com/user-attachments/assets/7504d3a7-ddbb-4895-b9ff-945459dc3a66" />
 </div>
 
 <h1 align="center">Hi, I'm Jastin Bolaños</h1>
@@ -27,7 +27,7 @@ My professional approach transcends conventional technical execution. I operate 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma,git,github,firebase,supabase,flutter,dart,gcp&theme=dark&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma,git,github,firebase,supabase,windows,gcp&theme=dark&perline=10" alt="My Skills" />
   </a>
 </div>
 
