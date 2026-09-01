@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Kotlin Multiplatform & Full Stack Banner | iOS · Android · Web" src="https://github.com/user-attachments/assets/7504d3a7-ddbb-4895-b9ff-945459dc3a66" />
+  <img width="100%" alt="Kotlin Multiplatform & Full Stack Banner | iOS · Android · Web" src="https://github.com/user-attachments/assets/1ece5519-72ae-43b7-9450-75a59e139c14" />
 </div>
 
 <h1 align="center">Welcome, I'm Jastin Bolaños</h1>
