@@ -4,7 +4,7 @@
 
 <h1 align="center">Welcome, I'm Jastin Bolaños</h1>
 
-<h3 align="center">Software Engineer | Android Native & Kotlin Multiplatform Architect</h3>
+<h3 align="center">Technical Partner & Full-Stack Engineer | Web & Mobile Architecture</h3>
 
 <p align="center">
   I specialize in bridging the gap between business objectives and technical execution. As a <b>Technical Partner and Full-Stack Engineer</b>, I don't just write code—I design scalable architectures. Whether you need a lightning-fast Web platform or a future-proof Mobile ecosystem, my focus is on delivering secure, ROI-driven digital products that are structurally prepared to grow alongside your company.
@@ -12,7 +12,7 @@
 
 ---
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l1aTRpY3FndndxYjZscnJ5NmhveHQxcnVmYmNpZDVsYjRtajJrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JBYZsvt2ahLg09qodC/giphy.gif" width="50" align="absmiddle" /> Engagement Model & Engineering Vision
+### ` ENGAGEMENT_MODEL & ENGINEERING_VISION `
 
 I operate as your fractional CTO and independent technical partner, transforming complex product visions into tangible, production-ready assets without the friction of inflated budgets.
 
@@ -23,13 +23,16 @@ I operate as your fractional CTO and independent technical partner, transforming
 
 ---
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdnbGUyYXRsM2lzdmk2dDJvODNhazliNWU3M2tma2F0bGdsdTdhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0mUTv7Yu0TFn0SGSN2/giphy.gif" width="50" align="center" /> Ecosystem and Tools 
+<h2 align="center">Ecosystem and Tools</h2>
 
 <div align="center">
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma,git,github,firebase,supabase,windows,gcp,typescript,nextjs,visualstudio,nodejs,vuejs&theme=dark&perline=10" alt="My Skills" />
   </a>
 </div>
+
+<br>
 
 ---
 
@@ -65,11 +68,12 @@ I develop projects aimed at demonstrating advanced architectures and robust UI d
 <br>
 
 ---
-
 <br>
 
-<div align="center">
-  <h3><img src="https://github.com/user-attachments/assets/66b8c48b-3d21-4519-8c5e-dfd9f69140c6" width="35" align="absmiddle" /> Ready to build your next digital product?</h3>
-  <p>If you are looking for a <b>Technical Partner</b> to build high-performance Web platforms or scalable Mobile apps (Android/KMP) without inflated budgets, <b>I am currently available for new freelance projects.</b></p>
-  <p>To discuss your project requirements, <b>please reach out to me directly through the freelance platform where you discovered my profile.</b><br>This ensures our communication and project milestones remain secure and fully compliant with the platform's guidelines.</p>
-</div>
+> ### Ready to build your next digital product?
+> 
+> If you are looking for a **Technical Partner** to build high-performance Web platforms or scalable Mobile apps (Android/KMP) without inflated budgets, **I am currently available for new freelance projects.**
+> 
+> To discuss your project requirements, **please reach out to me directly through the freelance platform where you discovered my profile.**<br>This ensures our communication and project milestones remain secure and fully compliant with the platform's guidelines.
+
+<br>
