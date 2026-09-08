@@ -1,25 +1,24 @@
 <div align="center">
-  <img width="100%" alt="Kotlin Multiplatform & Full Stack Banner | iOS · Android · Web" src="https://github.com/user-attachments/assets/fa80535a-4f6f-44b1-9b61-4a3e345d5794" />
+  <img width="100%" alt="Kotlin Multiplatform & Full Stack Banner | iOS · Android · Web" src="https://github.com/user-attachments/assets/f30e067e-940b-4368-9940-6005d61a74a6" />
 </div>
 
 <h1 align="center">Welcome, I'm Jastin Bolaños</h1>
-
 <h3 align="center">Technical Partner & Full-Stack Engineer | Web & Mobile Architecture</h3>
 
 <p align="center">
-  I specialize in bridging the gap between business objectives and technical execution. As a <b>Technical Partner and Full-Stack Engineer</b>, I don't just write code—I design scalable architectures. Whether you need a lightning-fast Web platform or a future-proof Mobile ecosystem, my focus is on delivering secure, ROI-driven digital products that are structurally prepared to grow alongside your company.
+  I specialize in bridging the gap between business objectives and technical execution. As a <b>Technical Partner and Full-Stack Engineer</b>, I orchestrate modern tools and AI-assisted workflows to design scalable architectures efficiently. Whether developing a robust Web platform or a future-proof Mobile ecosystem, my focus is on delivering secure, ROI-driven digital products engineered to perform reliably and adapt to your company's growth.
 </p>
 
 ---
 
 ### ` ENGAGEMENT_MODEL & ENGINEERING_VISION `
 
-I operate as your fractional CTO and independent technical partner, transforming complex product visions into tangible, production-ready assets without the friction of inflated budgets.
+I operate as your fractional CTO and independent technical partner, transforming complex product visions into tangible, production-ready assets through optimized development cycles.
 
-- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> Agile Web Platforms:** I build high-performance web applications and corporate dashboards (React, TypeScript, Node.js) optimized for rapid market entry and massive user scaling.
-- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> Future-Proof Mobile (KMP):** I develop fluid, native Android apps with a shared business logic core. Your system is architecturally ready to scale to iOS from day one, saving you significant time and budget in the future.
-- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> Enterprise-Grade Resilience:** I implement Clean Architecture and *Offline-First* patterns. I ensure your systems remain secure, idempotent, and highly available, protecting both your data and your users' experience.
-- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> Transparent & Milestone-Driven:** I work exclusively on verifiable delivery stages. You get absolute clarity, predictable costs, and complete control over the progress of your project from planning to deployment.
+- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> Agile Web Platforms (TypeScript & BaaS):** I build high-performance web applications leveraging modern Backend-as-a-Service infrastructures (Supabase/Firebase). This approach streamlines server management, prioritizing rapid deployment, stability, and structured scaling.
+- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> Future-Proof Mobile (KMP):** I develop fluid, native Android apps with a centralized business logic core. This architecture ensures your system is structurally prepared for iOS integration from day one, optimizing both development time and long-term maintenance costs.
+- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> Enterprise-Grade Resilience:** I implement Clean Architecture and *Offline-First* patterns to ensure systems remain idempotent and highly available. The priority is protecting data integrity and maintaining a seamless user experience under any network condition.
+- **<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp0bDAxNXk1bG56OHp6MHU5NWp3aG95Zm9ndzNjNmh2amxpNTZmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F0VCptrJteVWDeLBHD/giphy.gif" width="30" align="absmiddle" /> Efficiency & Milestone-Driven Delivery:** By integrating AI-assisted development into my workflow, I maintain high execution speed without compromising code quality. I work exclusively on verifiable delivery stages, providing clarity, predictable costs, and strict timeline adherence.
 
 ---
 
