@@ -173,6 +173,106 @@ I operate as your fractional CTO and independent technical partner, transforming
 ---
 <br><br>
 
+#### 🏦 EQUITIQ Enterprise Platform
+> **Institutional Commercial Real Estate (CRE) & Investment Analytics.**<br>
+> An enterprise-grade financial suite engineered for portfolio orchestration, underwriting, and econometric simulation. Developed with React 19, TypeScript, and Clean Architecture. It implements deterministic Discounted Cash Flow (DCF) models, multidimensional stress matrices, and AI-assisted executive reporting under strict SOC2/ISO 27001 compliance standards.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/666398c1-bce2-4693-a72e-3243282a2c9d" width="90%" alt="EQUITIQ FinTech Web Platform" />
+</div>
+
+<br>
+
+<div align="center">
+  <b>🎥 Financial Engine & Investment Simulation Walkthrough</b><br><br>
+  <video src="https://github.com/user-attachments/assets/da113871-35dc-4c1c-a09b-54c36f9697d7" width="90%" controls autoplay loop muted></video>
+</div>
+
+<br>
+
+<div align="center">
+  <strong><a href="https://equitiq.vercel.app">🚀 Live Platform: equitiq.vercel.app</a></strong> &nbsp;&nbsp;|&nbsp;&nbsp; <strong><a href="https://github.com/JastinBolanos/equitiq-investment-platform">📂 View Source Code</a></strong>
+</div>
+
+<br><br><br>
+---
+<br><br>
+
+#### 🌍 Draybyte Logistics Group
+> **Supply Chain Control Tower & Satellite Telemetry.**<br>
+> An enterprise-grade logistics orchestration platform engineered for high-performance supply chains and cross-border operations (LATAM / US-MX). Developed with React 19, TypeScript, and Google GenAI. It centralizes real-time IoT fleet telemetry, multi-hub inventory management, and features an AI-powered Neural Dispatch Core for dynamic route optimization.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ea0256cf-1eb0-4aed-9dad-ae3a62f7cea4" width="90%" alt="Draybyte Control Tower Web Platform" />
+</div>
+
+<br>
+
+<div align="center">
+  <b>🎥 Real-Time Telemetry & Logistics Orchestration Walkthrough</b><br><br>
+  <video src="https://github.com/user-attachments/assets/1d45d08c-6670-4b60-a5c8-10875b2854ee" width="90%" controls autoplay loop muted></video>
+</div>
+
+<br>
+
+<div align="center">
+  <strong><a href="https://draybyte.vercel.app/">🚀 Live Platform: draybyte.vercel.app</a></strong> &nbsp;&nbsp;|&nbsp;&nbsp; <strong><a href="https://github.com/JastinBolanos/draybyte-logistics-platform">📂 View Source Code</a></strong>
+</div>
+
+<br><br><br>
+---
+<br><br>
+
+#### ⚖️ Caselok LegalTech Workspace
+> **Enterprise Legal Management & Cryptographic Custody.**<br>
+> An enterprise-grade LegalTech workspace engineered for elite law firms and multinational legal departments. Developed with React 19, TypeScript, and Clean Architecture. It features complex litigation orchestration, real-time billable hours telemetry, AI-assisted contract analysis, and strict cryptographic document custody with SHA-256 integrity verification.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b1b31fcc-fe69-4c86-b00a-d340f127d534" width="90%" alt="Caselok LegalTech Web Platform" />
+</div>
+
+<br>
+
+<div align="center">
+  <b>🎥 Litigation Orchestration & LegalTech Walkthrough</b><br><br>
+  <video src="https://github.com/user-attachments/assets/265bf4ce-b1ee-480d-b1dc-273adf21cbd1" width="90%" controls autoplay loop muted></video>
+</div>
+
+<br>
+
+<div align="center">
+  <strong><a href="https://caselok.vercel.app">🚀 Live Platform: caselok.vercel.app</a></strong> &nbsp;&nbsp;|&nbsp;&nbsp; <strong><a href="https://github.com/JastinBolanos/caselok-legal-workspace">📂 View Source Code</a></strong>
+</div>
+
+<br><br><br>
+---
+<br><br>
+
+#### 🗺️ GeoPulse GIS Engine
+> **Interactive Geospatial Mapping & Open Cartography.**<br>
+> A high-performance, lightweight web mapping engine powered by open-source geospatial data. Developed with React 19, TypeScript, and Leaflet. It features high-resolution satellite imagery, real-time geocoding, and custom topographic layers, demonstrating advanced GIS (Geographic Information Systems) integration with zero proprietary API lock-in.
+
+<div align="center">
+  <img src="[INSERTA_LINK_IMAGEN]" width="90%" alt="GeoPulse GIS Web Platform" />
+</div>
+
+<br>
+
+<div align="center">
+  <b>🎥 Interactive Map Engine & Geocoding Walkthrough</b><br><br>
+  <video src="https://github.com/user-attachments/assets/51cf20d9-d944-4887-ad7a-7cc60488729b" width="90%" controls autoplay loop muted></video>
+</div>
+
+<br>
+
+<div align="center">
+  <strong><a href="[INSERTA_LINK_WEB]">🚀 Live Platform: geopulse.vercel.app</a></strong> &nbsp;&nbsp;|&nbsp;&nbsp; <strong><a href="https://github.com/JastinBolanos/geopulse">📂 View Source Code</a></strong>
+</div>
+
+<br><br><br>
+---
+<br><br>
+
 <h3 align="center">📱 2. Native Mobile Architecture (Kotlin Multiplatform)</h3>
 <p align="center"><em>Fluid, offline-ready Android applications built on a shared logic core, structurally prepared for iOS scalability.</em></p>
 
