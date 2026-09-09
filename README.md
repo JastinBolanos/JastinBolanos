@@ -27,8 +27,11 @@ I operate as your fractional CTO and independent technical partner, transforming
 <div align="center">
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma,git,github,firebase,supabase,windows,gcp,typescript,nextjs,visualstudio,nodejs,vuejs&theme=dark&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,figma,git,github,firebase,supabase,windows,gcp,typescript&theme=dark" alt="My Skills Line 1" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,visualstudio,nodejs,vuejs&theme=dark" alt="My Skills Line 2" style="vertical-align: middle;" />
   </a>
+  <span style="color: #8b949e; font-size: 16px; font-weight: 600; font-style: italic; margin-left: 12px; vertical-align: middle;">
 </div>
 
 <br>
