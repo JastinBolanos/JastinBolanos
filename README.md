@@ -320,7 +320,6 @@ I operate as your fractional CTO and independent technical partner, transforming
   </tr>
 </table>
 
-<br>
 <hr style="border: 0; height: 1px; background: #30363d;" />
 <br>
 
@@ -328,8 +327,6 @@ I operate as your fractional CTO and independent technical partner, transforming
 <p align="center">
   <em>Fluid, offline-ready Android applications built on a shared logic core, structurally prepared for iOS scalability.</em>
 </p>
-
-<br>
 
 <br><br>
 
@@ -344,7 +341,10 @@ I operate as your fractional CTO and independent technical partner, transforming
   <tr>
     <td colspan="2" align="center">
       <br>
-      <img src="https://github.com/user-attachments/assets/946f6558-d896-4dfd-a231-5452323e6077" width="100%" alt="LopsAI KMP Android App" />
+      <!-- Logo chiquito al 15% y centrado junto a la diapositiva del 78% -->
+      <img src="https://github.com/user-attachments/assets/946f6558-d896-4dfd-a231-5452323e6077" width="15%" alt="LopsAI KMP Logo" style="vertical-align: middle; border-radius: 16px;" />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/user-attachments/assets/b322ed44-6ee8-405d-ad79-03535562bd20" width="78%" alt="LopsAI KMP Slide" style="vertical-align: middle; border-radius: 8px;" />
       <br><br>
     </td>
   </tr>
@@ -360,8 +360,6 @@ I operate as your fractional CTO and independent technical partner, transforming
 
 <br><br>
 
-<br>
-
 <table width="100%">
   <tr>
     <td colspan="2">
@@ -373,7 +371,9 @@ I operate as your fractional CTO and independent technical partner, transforming
   <tr>
     <td colspan="2" align="center">
       <br>
-      <img src="https://github.com/user-attachments/assets/b862b36c-c975-40c4-99d8-33df26c2d2a8" width="100%" alt="E-Commerce KMP Android App" />
+      <img src="https://github.com/user-attachments/assets/b862b36c-c975-40c4-99d8-33df26c2d2a8" width="15%" alt="E-Commerce KMP Logo" style="vertical-align: middle; border-radius: 16px;" />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/user-attachments/assets/b87e68d0-5c29-41e6-8720-e78d64fd00b2" width="78%" alt="E-Commerce KMP Slide" style="vertical-align: middle; border-radius: 8px;" />
       <br><br>
     </td>
   </tr>
@@ -387,7 +387,7 @@ I operate as your fractional CTO and independent technical partner, transforming
   </tr>
 </table>
 
-<br>
+<br><br>
 
 <table width="100%">
   <tr>
@@ -400,7 +400,9 @@ I operate as your fractional CTO and independent technical partner, transforming
   <tr>
     <td colspan="2" align="center">
       <br>
-      <img src="https://github.com/user-attachments/assets/2e080361-8be6-48d3-a737-58be5f46930d" width="100%" alt="Vault KMP Android App" />
+      <img src="https://github.com/user-attachments/assets/2e080361-8be6-48d3-a737-58be5f46930d" width="15%" alt="Vault KMP Logo" style="vertical-align: middle; border-radius: 16px;" />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/user-attachments/assets/7cb4a72b-191b-4860-b828-00acfcba7c09" width="78%" alt="Vault KMP Slide" style="vertical-align: middle; border-radius: 8px;" />
       <br><br>
     </td>
   </tr>
@@ -414,7 +416,7 @@ I operate as your fractional CTO and independent technical partner, transforming
   </tr>
 </table>
 
-<br>
+<br><br>
 
 <table width="100%">
   <tr>
@@ -427,7 +429,9 @@ I operate as your fractional CTO and independent technical partner, transforming
   <tr>
     <td colspan="2" align="center">
       <br>
-      <img src="https://github.com/user-attachments/assets/95e073f3-62e5-44e2-aaa2-7bf37439808e" width="100%" alt="NeoBank KMP Android App" />
+      <img src="https://github.com/user-attachments/assets/95e073f3-62e5-44e2-aaa2-7bf37439808e" width="15%" alt="NeoBank KMP Logo" style="vertical-align: middle; border-radius: 16px;" />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/user-attachments/assets/1c54df32-0740-4e7b-b13c-ad06b44edcde" width="78%" alt="NeoBank KMP Slide" style="vertical-align: middle; border-radius: 8px;" />
       <br><br>
     </td>
   </tr>
