@@ -54,6 +54,105 @@ I operate as your fractional CTO and independent technical partner, transforming
 <table width="100%">
   <tr>
     <td colspan="2">
+      <h2>🌐 ShopGlid Artisan Leather Goods</h2>
+      <b>Digital Boutique and Curated Catalog of Handcrafted Leather Pieces.</b><br>
+      An e-commerce platform crafted with care for curating, discovering, and acquiring exclusive leather goods like elegant handbags, ergonomic urban backpacks, and ultra-slim genuine leather wallets. Developed with React 19, TypeScript, and Tailwind CSS. It features detailed material specification sheets, an interactive leather tone selector, and a seamless, transparent checkout flow.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://github.com/user-attachments/assets/d91d56cf-58a5-45e6-b337-4f1d693e4959" width="100%" alt="ShopGlid Artisan Leather Goods Web Platform" />
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br><b>🎥 Collection Browsing and Shopping Experience Walkthrough</b><br>
+      <video src="https://github.com/user-attachments/assets/63aee1e8-8dfb-4d49-bbf8-7699efe3e6eb" width="100%" controls autoplay loop muted></video><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://shop-glid.vercel.app/">🚀 Live Platform</a></h3>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/JastinBolanos/shop-glid">📂 View Source Code</a></h3>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td colspan="2">
+      <h2>🌿 ECOMANZA Botanical Apothecary</h2>
+      <b>Contemporary Botanical Apothecary & Sustainable Cosmetics E-Commerce.</b><br>
+      A digital platform conceived with an artisanal and sober approach to provide a serene sensory experience. Developed with React 19, TypeScript, and Tailwind CSS. It features a minimalist catalog of wild-harvested botanical formulas, honest ingredient breakdown, an immersive welcome screen, and an interactive side drawer for shopping basket management.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://github.com/user-attachments/assets/88102c6b-0a89-403f-abac-2e869b1b34c4" width="100%" alt="ECOMANZA Botanical Apothecary Web Platform" />
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br><b>🎥 Sensory Navigation and Experience Walkthrough</b><br>
+      <video src="https://github.com/user-attachments/assets/cd4ca09f-68c8-444e-b0c3-6ea8e6711b8b" width="100%" controls autoplay loop muted></video><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://ecomanza.vercel.app/">🚀 Live Platform</a></h3>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/JastinBolanos/ecomanza">📂 View Source Code</a></h3>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td colspan="2">
+      <h2>🌐 ECONASE Haute Parfumerie</h2>
+      <b>Digital Boutique and Sensory Experience for Artisanal Haute Parfumerie.</b><br>
+      High-end e-commerce platform designed for curating, discovering, and acquiring exclusive niche fragrances from ECONASE. Developed with React 19, TypeScript, and Tailwind CSS. It combines an editorial minimalist visual experience with an interactive olfactory sommelier, a three-stage fragrance pyramid breakdown, and a smooth, secure shopping workflow.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://github.com/user-attachments/assets/3091c099-7ef8-4c4e-bc25-c08167cfd3f7" width="100%" alt="ECONASE Haute Parfumerie Web Platform" />
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br><b>🎥 Collection Exploration & Sensory Sommelier Walkthrough</b><br>
+      <video src="https://github.com/user-attachments/assets/c82c4a30-941c-4b00-bbea-bd40a7af1d35" width="100%" controls autoplay loop muted></video><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://econase.vercel.app/">🚀 Live Platform</a></h3>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/JastinBolanos/econase">📂 View Source Code</a></h3>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td colspan="2">
       <h2>⚡ FlitSide E-Commerce</h2>
       <b>Modern Web Platform & Digital Fashion Ecosystem.</b><br>
       A high-performance digital fashion platform engineered for an agile and aesthetic customer experience. It features a frictionless checkout flow, a dynamic operations dashboard, and fluid micro-interactions powered by a Mobile-First architecture.
