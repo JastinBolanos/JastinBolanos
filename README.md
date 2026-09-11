@@ -43,7 +43,7 @@
       <h3><a href="https://shop-glid.vercel.app/">🚀 Live Platform</a></h3>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/JastinBolanos/shop-glid">📂 View Source Code</a></h3>
+      <h3><a href="https://github.com/JastinBolanos/ShopGlid-Product-Store">📂 View Source Code</a></h3>
     </td>
   </tr>
 </table>
@@ -76,7 +76,7 @@
       <h3><a href="https://ecomanza.vercel.app/">🚀 Live Platform</a></h3>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/JastinBolanos/ecomanza">📂 View Source Code</a></h3>
+      <h3><a href="https://github.com/JastinBolanos/Ecomanza-botanical-apothecary">📂 View Source Code</a></h3>
     </td>
   </tr>
 </table>
@@ -109,7 +109,7 @@
       <h3><a href="https://econase.vercel.app/">🚀 Live Platform</a></h3>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/JastinBolanos/econase">📂 View Source Code</a></h3>
+      <h3><a href="https://github.com/JastinBolanos/ECONASE-Haute-Parfumerie">📂 View Source Code</a></h3>
     </td>
   </tr>
 </table>
@@ -140,7 +140,7 @@
       <h3><a href="https://flitside.vercel.app/"> 🌐 Live Platform</a></h3>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/JastinBolanos/flitside">📂 View Source Code</a></h3>
+      <h3><a href="https://github.com/JastinBolanos/FlitSide-E-Commerce">📂 View Source Code</a></h3>
     </td>
   </tr>
 </table>
@@ -171,7 +171,7 @@
       <h3><a href="https://uniperium.vercel.app/"> 🌐 Live Platform</a></h3>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/JastinBolanos/UNIPERIUM">📂 View Source Code</a></h3>
+      <h3><a href="https://github.com/JastinBolanos/Uniperium-LMS-ERP">📂 View Source Code</a></h3>
     </td>
   </tr>
 </table>
@@ -202,7 +202,7 @@
       <h3><a href="https://tresval.vercel.app/"> 🌐 Live Platform</a></h3>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/JastinBolanos/tresval-healthtech">📂 View Source Code</a></h3>
+      <h3><a href="https://github.com/JastinBolanos/Tresval-healthtech">📂 View Source Code</a></h3>
     </td>
   </tr>
 </table>
@@ -233,7 +233,7 @@
       <h3><a href="https://humassist.vercel.app"> 🌐 Live Platform</a></h3>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/JastinBolanos/humassist-enterprise-erp">📂 View Source Code</a></h3>
+      <h3><a href="https://github.com/JastinBolanos/Humassist-Enterprise">📂 View Source Code</a></h3>
     </td>
   </tr>
 </table>
@@ -292,7 +292,7 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3><a href="https://equitiq.vercel.app"> 🌐 Live Platform</a></h3>
+      <h3><a href="https://equitiiq.vercel.app"> 🌐 Live Platform</a></h3>
     </td>
     <td width="50%" align="center">
       <h3><a href="https://github.com/JastinBolanos/equitiq-investment-platform">📂 View Source Code</a></h3>
@@ -326,7 +326,7 @@
       <h3><a href="https://draybyte.vercel.app/"> 🌐 Live Platform</a></h3>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/JastinBolanos/draybyte-logistics-platform">📂 View Source Code</a></h3>
+      <h3><a href="https://github.com/JastinBolanos/draybyte-logistics-group">📂 View Source Code</a></h3>
     </td>
   </tr>
 </table>
@@ -380,10 +380,10 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3><a href="https://geopulse-topaz.vercel.app">🌐 Live Platform</a></h3>
+      <h3><a href="https://geopullse.vercel.app">🌐 Live Platform</a></h3>
     </td>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/JastinBolanos/geopulse">📂 View Source Code</a></h3>
+      <h3><a href="https://github.com/JastinBolanos/GeoPulse-Open-Map-Explorer">📂 View Source Code</a></h3>
     </td>
   </tr>
 </table>
