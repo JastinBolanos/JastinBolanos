@@ -10,6 +10,8 @@
 
 <br>
 
+---
+
 <h3 align="center">🌐 Web Platforms & Digital Ecosystems</h3>
 <p align="center"><em>platforms engineered with React and TypeScript.</em></p>
 
