@@ -35,7 +35,7 @@
   <tr>
     <td colspan="2" align="center">
       <br><b>🎥 Video Demonstration</b><br>
-      <video src="https://github.com/user-attachments/assets/63aee1e8-8dfb-4d49-bbf8-7699efe3e6eb" width="100%" controls autoplay loop muted></video><br><br>
+      <video src="https://github.com/user-attachments/assets/3d44234b-b3d8-45f5-a9dc-1f1b7955c1c7" width="100%" controls autoplay loop muted></video><br><br>
     </td>
   </tr>
   <tr>
