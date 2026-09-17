@@ -13,7 +13,7 @@
 ---
 
 <h3 align="center">🌐 Web Platforms & Digital Ecosystems</h3>
-<p align="center"><em>platforms engineered with React and TypeScript.</em></p>
+<p align="center"><em>Frontend platforms engineered with React and TypeScript.</em></p>
 
 <br>
 
@@ -22,7 +22,7 @@
     <td colspan="2">
       <h2>🌐 ShopGlid</h2>
       <b>E-Commerce for Leather Goods.</b><br>
-      Developed with React 19, TypeScript, and Tailwind CSS. Built to provide a digital showcase highlighting product quality through an interactive catalog, a real-time tone selector, and a simplified checkout flow.
+      A dedicated <b>frontend</b> experience developed with React 19, TypeScript, and Tailwind CSS. Built to provide a welcoming digital showcase highlighting product quality through an interactive catalog, a real-time tone selector, and a seamless frontend checkout flow.
     </td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@
     <td colspan="2">
       <h2>🌿 ECOMANZA</h2>
       <b>Botanical Cosmetics E-Commerce.</b><br>
-      Developed with React 19, TypeScript, and Tailwind CSS. Focused on a minimalist shopping experience, featuring a dynamic catalog and a persistent side-drawer cart to reduce abandonment rates.
+      A beautifully crafted <b>frontend</b> solution developed with React 19, TypeScript, and Tailwind CSS. Focused on delivering a minimalist and friendly shopping experience, featuring a dynamic user interface with a persistent side-drawer cart to reduce abandonment rates.
     </td>
   </tr>
   <tr>
@@ -88,7 +88,7 @@
     <td colspan="2">
       <h2>🌐 ECONASE</h2>
       <b>Haute Parfumerie Web Store.</b><br>
-      Developed with React 19, TypeScript, and Tailwind CSS. A premium platform featuring an interactive "Olfactory Sommelier" recommendation system and a highly optimized shopping workflow.
+      A premium <b>frontend</b> platform developed with React 19, TypeScript, and Tailwind CSS. It features an engaging, interactive "Olfactory Sommelier" recommendation system and a highly optimized, user-friendly frontend shopping workflow.
     </td>
   </tr>
   <tr>
@@ -121,7 +121,7 @@
     <td colspan="2">
       <h2>⚡ FlitSide</h2>
       <b>Contemporary Fashion Web Platform.</b><br>
-      Developed with React 19, TypeScript, and Tailwind CSS. Engineered with a Mobile-First architecture to ensure fast load times, featuring fluid UI transitions and a frictionless slide-over cart.
+      A modern <b>frontend</b> application developed with React 19, TypeScript, and Tailwind CSS. Engineered with a Mobile-First frontend architecture to ensure incredibly fast load times, friendly and fluid UI transitions, and a frictionless slide-over cart.
     </td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@
     <td colspan="2">
       <h2>🎓 Uniperium LMS</h2>
       <b>Enterprise Academic Management System.</b><br>
-      Developed with React 19 and TypeScript. A modular platform unifying complex gradebooks, student performance tracking, and virtual/physical infrastructure orchestration.
+      A comprehensive <b>frontend</b> interface developed with React 19 and TypeScript. This modular frontend elegantly unifies complex gradebooks, student performance tracking, and virtual/physical infrastructure orchestration into a highly accessible and professional dashboard.
     </td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@
     <td colspan="2">
       <h2>🏥 Tresval Clinic OS</h2>
       <b>Enterprise HealthTech Suite.</b><br>
-      Developed with React 19 and TypeScript. Integrates an Electronic Health Record (EHR) system, an interactive odontogram, and a clinical triage interface within a secure architecture.
+      A specialized <b>frontend</b> suite developed with React 19 and TypeScript. It seamlessly integrates a user-friendly interface for an Electronic Health Record (EHR) system, an interactive odontogram, and a clinical triage dashboard within a secure frontend architecture.
     </td>
   </tr>
   <tr>
@@ -214,7 +214,7 @@
     <td colspan="2">
       <h2>🏢 HUMASSIST Enterprise</h2>
       <b>Enterprise ERP & Human Resources Platform.</b><br>
-      Developed with React 19, TypeScript, and Clean Architecture. Centralizes payroll calculation, attendance tracking, and internal security through strict Role-Based Access Control (RBAC).
+      A robust <b>frontend</b> enterprise application developed with React 19, TypeScript, and Clean Architecture. It provides a clean, professional interface to centralize payroll calculation, attendance tracking, and internal security through strict Role-Based Access Control (RBAC) UI implementations.
     </td>
   </tr>
   <tr>
@@ -245,7 +245,7 @@
     <td colspan="2">
       <h2>🛒 STOVUE Command Center</h2>
       <b>Retail & Supply Chain Dashboard.</b><br>
-      Developed with React 19, TypeScript, and Domain-Driven Design (DDD). Unifies real-time transactional telemetry, inventory management, and automated stock alerts for multi-store logistics.
+      A dynamic <b>frontend</b> dashboard developed with React 19, TypeScript, and Domain-Driven Design (DDD). It presents a unified, user-friendly view of real-time transactional telemetry, inventory management, and automated stock alerts for multi-store logistics.
     </td>
   </tr>
   <tr>
@@ -276,7 +276,7 @@
     <td colspan="2">
       <h2>🏦 EQUITIQ Enterprise Platform</h2>
       <b>Commercial Real Estate (CRE) Analytics Suite.</b><br>
-      Developed with React 19, TypeScript, and Clean Architecture. A financial platform designed to simplify commercial real estate analysis, property valuation, and investment reporting.
+      A sophisticated <b>frontend</b> financial platform developed with React 19, TypeScript, and Clean Architecture. Designed to provide professionals with a simplified, intuitive interface for commercial real estate analysis, property valuation, and investment reporting.
     </td>
   </tr>
   <tr>
@@ -307,7 +307,7 @@
     <td colspan="2">
       <h2>🌍 Draybyte Logistics Group</h2>
       <b>Logistics Control Tower Platform.</b><br>
-      Developed with React 19 and TypeScript. Centralizes real-time fleet telemetry, multi-hub inventory management, and route optimization.
+      A powerful <b>frontend</b> control tower platform developed with React 19 and TypeScript. It offers a clear, interactive, and professional interface that centralizes real-time fleet telemetry, multi-hub inventory management, and route optimization.
     </td>
   </tr>
   <tr>
@@ -338,7 +338,7 @@
     <td colspan="2">
       <h2>⚖️ Caselok LegalTech Workspace</h2>
       <b>Enterprise Legal Management Workspace.</b><br>
-      Developed with React 19, TypeScript, and Clean Architecture. Features litigation orchestration, billable hours tracking, and contract analysis.
+      A highly professional <b>frontend</b> workspace developed with React 19, TypeScript, and Clean Architecture. It delivers a seamless and intuitive user experience for litigation orchestration, billable hours tracking, and contract analysis visualization.
     </td>
   </tr>
   <tr>
@@ -369,7 +369,7 @@
     <td colspan="2">
       <h2>🗺️ GeoPulse GIS Engine</h2>
       <b>Interactive GIS Mapping Engine.</b><br>
-      Developed with React 19, TypeScript, and Leaflet. Integrates high-resolution satellite imagery, real-time geocoding, and custom topographic layers without relying on proprietary APIs.
+      An interactive GIS mapping engine developed with React 19, TypeScript, and Leaflet. Going beyond a standard <b>frontend</b>, it seamlessly integrates with open cartographic standards—including OpenStreetMap, Esri, and Nominatim—to beautifully render high-resolution satellite imagery, topographic relief, and real-time geocoding, delivering an accessible and friendly user experience with zero proprietary API costs.
     </td>
   </tr>
   <tr>
@@ -393,7 +393,7 @@
 
 <h3 align="center">📱 2. Native Mobile Architecture (Kotlin Multiplatform)</h3>
 <p align="center">
-  <em>Fluid, offline-ready Android applications built on a shared logic core, structurally prepared for iOS scalability.</em>
+  <em>Fluid, offline-ready Android applications showcasing scalable <b>frontend</b> architectures, structurally prepared for iOS.</em>
 </p>
 
 <br><br>
@@ -403,7 +403,7 @@
     <td colspan="2">
       <h2>🧠 LopsAI KMP</h2>
       <b>Advanced AI Frontend Ecosystem.</b><br>
-      Premium frontend interface for an AI assistant. Built with a shared Kotlin codebase (KMP) delivering native fluidity on Android. It features a reactive Glassmorphic design and serves as a high-fidelity technical UI showcase—focused entirely on the visual layer rather than backend integration—while remaining structurally scalable to iOS and WebAssembly.
+      A premium <b>frontend</b> interface for an AI assistant. Built with a shared Kotlin codebase (KMP), delivering native fluidity on Android. It features a welcoming, reactive Glassmorphic design and serves as a high-fidelity technical UI showcase—focused entirely on the frontend visual layer—while remaining structurally scalable to iOS and WebAssembly.
     </td>
   </tr>
   <tr>
@@ -432,7 +432,7 @@
     <td colspan="2">
       <h2>🛒 E-Commerce KMP</h2>
       <b>Android Native UI & Multiplatform Commercial Architecture.</b><br>
-      Frontend implementation of a B2C shopping application and a B2B administration panel using Clean Architecture. It features reactive state management and currently uses mock data, structurally prepared for integration with a real database.
+      A complete <b>frontend</b> implementation of a B2C shopping application and a B2B administration panel using Clean Architecture. It offers a smooth, reactive UI experience using mock data, beautifully crafted and structurally prepared on the frontend for real database integration.
     </td>
   </tr>
   <tr>
@@ -490,7 +490,7 @@
     <td colspan="2">
       <h2>💳 NeoBank KMP</h2>
       <b>Scalable Fintech UI Experience.</b><br>
-      A technical showcase focused on declarative UI and state hoisting. Recreates the interface of a modern digital bank with fluid transitions and complex custom components.
+      A polished <b>frontend</b> technical showcase focused on declarative UI and state hoisting. It beautifully recreates the interface of a modern digital bank, offering users fluid transitions and complex, engaging custom components.
     </td>
   </tr>
   <tr>
@@ -513,5 +513,3 @@
 </table>
 
 <br><br>
-
----
