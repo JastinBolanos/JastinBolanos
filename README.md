@@ -150,6 +150,138 @@
 <table width="100%">
   <tr>
     <td colspan="2">
+      <h2>🌿 GreenLife Tree Nursery</h2>
+      <b>Architectural Living Arbors & Botanical Sanctuary E-Commerce.</b><br>
+      High-end interactive web application and digital sanctuary for master-cultivated specimen trees and rare ornamental flora. Developed with <b>React 19, TypeScript, Tailwind CSS v4, Vite, and Motion</b>. The frontend architecture features an interactive specimen catalog with comprehensive botanical specifications (USDA hardiness zones, sunlight, watering cadence), an intelligent Arboreal Matcher questionnaire, slide-over Cart and Wishlist drawers with dynamic calculations and LocalStorage persistence, instant global search palette (Ctrl + K), real-time reactive HTML5 Canvas particle systems, and zero-latency ambient sound synthesis via native Web Audio API.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://github.com/user-attachments/assets/e7199bf7-00ef-424f-b1e3-f2b4adb1a23f"" width="100%" alt="GreenLife Tree Nursery Web Platform" />
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br><b>🎥 Video Demonstration</b><br>
+      <video src="https://github.com/user-attachments/assets/c21c78e6-5a31-4a60-99d0-18425ceed6bc" width="100%" controls autoplay loop muted></video><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://greenlife-web-nine.vercel.app"> 🌐 Live Platform</a></h3>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/JastinBolanos/GreenLife">📂 View Source Code</a></h3>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td colspan="2">
+      <h2>💎 Diavoire — Luxury Fine Jewelry Platform</h2>
+      <b>Interactive E-Commerce & Haute Joaillerie Experience.</b><br>
+      High-end luxury e-commerce web platform engineered with <b>React 18</b>, <b>TypeScript</b>, and <b>Tailwind CSS</b>. Features an interactive 2.5D jewel hero showcase with custom particle canvas rendering, real-time dynamic category and metal filtering, an interactive bespoke commission atelier, modal views with multi-angle perspectives, smooth cart and wishlist slide-out drawers, and full responsive design tailored for luxury retail.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://github.com/user-attachments/assets/d1f1501c-5334-4826-9143-857b5ac4ed5d" width="100%" alt="Diavoire Web Platform" />
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br><b>🎥 Video Demonstration</b><br>
+      <video src="https://github.com/user-attachments/assets/9c6db202-074e-4fe1-9310-31024b0455a0" width="100%" controls autoplay loop muted></video><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://diavoire.vercel.app/"> 🌐 Live Platform</a></h3>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/JastinBolanos/Diavoire">📂 View Source Code</a></h3>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td colspan="2">
+      <h2>⚡ Velox Motors | Luxury & Futuristic Automotive Showroom</h2>
+      <b>Plataforma Web Premium & Showroom Digital de Hipercoches.</b><br>
+      Plataforma web de alto rendimiento desarrollada con <b>React 18</b>, <b>TypeScript</b>, <b>Vite</b> y <b>Tailwind CSS</b>, acompañada de animaciones fluidas con <b>Motion</b> y efectos atmosféricos en <b>HTML5 Canvas</b>. Diseñada bajo una estética visual Cyber-Green de vanguardia automotriz, integra un panel telemático interactivo en tiempo real con selector de modelos insignia (Porsche Taycan Turbo S, Audi RS e-tron GT, Mercedes-AMG ONE, Lamborghini Huracán STO), catálogo dinámico con filtrado multinivel por motorización y carrocería, selector de acabados y especificaciones técnicas de fábrica, simulador financiero de leasing y amortización con cálculo dinámico de cuotas, y flujo completo de reserva y agendamiento de pruebas en pista.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://github.com/user-attachments/assets/d3872a15-4f60-412a-b66f-4edc553436fe" width="100%" alt="Velox Motors Web Platform" />
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br><b>🎥 Video Demonstration</b><br>
+      <video src="https://github.com/user-attachments/assets/6b523ce1-1b48-47f0-ab0d-6d541a90c433" width="100%" controls autoplay loop muted></video><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://velox-motors-zeta.vercel.app/"> 🌐 Live Platform</a></h3>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/JastinBolanos/Velox_Motors">📂 View Source Code</a></h3>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td colspan="2">
+      <h2>💖 LoveConnect</h2>
+      <b>Plataforma interactiva de citas y networking en tiempo real.</b><br>
+      Aplicación web moderna desarrollada con React, TypeScript, Tailwind CSS y Lucide Icons. Implementa una arquitectura frontend modular basada en componentes y hooks personalizados, animaciones y microinteracciones fluidas, filtrado y búsqueda instantánea de perfiles, sistema de match interactivo con celebración visual, panel de mensajería en vivo simulada y diseño 100% responsivo optimizado para alta conversión y retención de usuarios.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://github.com/user-attachments/assets/84051b46-10e8-413d-add0-c5a8ad174ea4" width="100%" alt="LoveConnect Web Platform" />
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br><b>🎥 Video Demonstration</b><br>
+      <video src="https://github.com/user-attachments/assets/661ef258-29c5-4fd9-894c-ed57e668cb81" width="100%" controls autoplay loop muted></video><br><br>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3><a href="https://love-connect-blush.vercel.app/"> 🌐 Live Platform</a></h3>
+    </td>
+    <td width="50%" align="center">
+      <h3><a href="https://github.com/JastinBolanos/LoveConnect">📂 View Source Code</a></h3>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table width="100%">
+  <tr>
+    <td colspan="2">
       <h2>🎓 Uniperium LMS</h2>
       <b>Enterprise Academic Management System.</b><br>
       A comprehensive <b>frontend</b> interface developed with React 19 and TypeScript. This modular frontend elegantly unifies complex gradebooks, student performance tracking, and virtual/physical infrastructure orchestration into a highly accessible and professional dashboard.
