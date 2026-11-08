@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=720&height=60&lines=BRIDGING+DESIGN%2C+STRATEGY%2C+AND+DEVELOPMENT;UNIENDO+DISE%C3%91O%2C+ESTRATEGIA+Y+DESARROLLO" alt="Efecto Máquina de Escribir - Jastin Bolaños" />
 </div>
 
----
-
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNmNTFpbnN2MWJ0ZDNicHJpbzVmNm45cDJmMnNtdHFjcmc0aXB5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8QiXMPhQoLL2X0AbJ8/giphy.gif" width="40" align="center" /> Featured Projects and Technical Showcases
-
 <table>
   <tr>
     <td width="33%" align="center" valign="top">
@@ -39,7 +35,4 @@
   </tr>
 </table>
 
-<br>
-
----
 <br>
