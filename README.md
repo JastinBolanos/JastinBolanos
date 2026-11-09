@@ -14,7 +14,7 @@
         <strong><a href="https://github.com/JastinBolanos/Store-B2C-B2B-UI">Store UI Android</a></strong><br><em>Declarative UI & Commercial Architecture.</em><br><br><strong><a href="https://github.com/JastinBolanos/Store-B2C-B2B-UI/releases/download/v2.0.0/E-CommerceKMP.apk">Download APK</a></strong>
       </td>
       <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
-        <img src="URL_DEL_ICONO_AQUI" width="110" /><br><br>
+        <img src="https://github.com/user-attachments/assets/aa1a4980-e0b3-46f6-9e29-d41f9e9e6276" width="110" /><br><br>
         <strong><a href="https://github.com/JastinBolanos/ExpenSync">ExpenSync Android</a></strong><br><em>Coming soon.</em><br><br><strong><a href="https://github.com/JastinBolanos/ExpenSync">Download APK</a></strong>
       </td>
     </tr>
