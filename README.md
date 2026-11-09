@@ -7,29 +7,29 @@
     <tr style="border: none;">
       <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
         <img src="https://github.com/user-attachments/assets/946f6558-d896-4dfd-a231-5452323e6077" width="110" /><br><br>
-        <strong><a href="https://github.com/JastinBolanos/LopsAI-KMP">LopsAI Android</a></strong><br><em>Declarative UI & Native AI Ecosystem.</em><br><br><strong><a href="https://github.com/JastinBolanos/LopsAI-KMP/releases/download/v1.0.0/LopsAI.apk">Download APK</a></strong>
+        <strong><a href="https://github.com/JastinBolanos/Artificial-Intelligence-UI">Artificial Intelligence UI Android</a></strong><br><em>Declarative UI & Native AI Interfast.</em><br><br><strong><a href="https://github.com/JastinBolanos/Artificial-Intelligence-UI/releases/download/v1.0.0/LopsAI.apk">Download APK</a></strong>
       </td>
       <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
         <img src="https://github.com/user-attachments/assets/b862b36c-c975-40c4-99d8-33df26c2d2a8" width="110" /><br><br>
-        <strong><a href="https://github.com/JastinBolanos/E-Commerce-KMP">E-Commerce Android</a></strong><br><em>Declarative UI & Commercial Architecture.</em><br><br><strong><a href="https://github.com/JastinBolanos/E-Commerce-KMP/releases/download/v2.0.0/E-CommerceKMP.apk">Download APK</a></strong>
+        <strong><a href="https://github.com/JastinBolanos/Store-B2C-B2B-UI">Store UI Android</a></strong><br><em>Declarative UI & Commercial Architecture.</em><br><br><strong><a href="https://github.com/JastinBolanos/Store-B2C-B2B-UI/releases/download/v2.0.0/E-CommerceKMP.apk">Download APK</a></strong>
       </td>
       <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
         <img src="URL_DEL_ICONO_AQUI" width="110" /><br><br>
-        <strong><a href="URL_DEL_REPO_AQUI">ExpenSync Android</a></strong><br><em>Declarative UI & Financial Tracking.</em><br><br><strong><a href="URL_DEL_APK_AQUI">Download APK</a></strong>
+        <strong><a href="https://github.com/JastinBolanos/ExpenSync">ExpenSync Android</a></strong><br><em>Coming soon.</em><br><br><strong><a href="https://github.com/JastinBolanos/ExpenSync">Download APK</a></strong>
       </td>
     </tr>
     <tr style="border: none;">
       <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
         <img src="https://github.com/user-attachments/assets/2e080361-8be6-48d3-a737-58be5f46930d" width="110" /><br><br>
-        <strong><a href="https://github.com/JastinBolanos/Boveda-KMP">Vault Android</a></strong><br><em>Declarative UI & Resilient Architecture.</em><br><br><strong><a href="https://github.com/JastinBolanos/Boveda-KMP/releases/download/v1.2.0/BovedaKMP.apk">Download APK</a></strong>
+        <strong><a href="https://github.com/JastinBolanos/Vault-OfflineFirst">Vault Android</a></strong><br><em>Offline First & Resilient Architecture.</em><br><br><strong><a href="https://github.com/JastinBolanos/Vault-OfflineFirst/releases/download/v1.2.0/BovedaKMP.apk">Download APK</a></strong>
       </td>
       <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
         <img src="https://github.com/user-attachments/assets/95e073f3-62e5-44e2-aaa2-7bf37439808e" width="110" /><br><br>
-        <strong><a href="https://github.com/JastinBolanos/NeoBankUI-KMP">NeoBank UI</a></strong><br><em>Declarative UI & Scalable Fintech Experience.</em><br><br><strong><a href="https://github.com/JastinBolanos/NeoBankUI-KMP/releases/download/v1.1.0/NeoBankUI.apk">Download APK</a></strong>
+        <strong><a href="https://github.com/JastinBolanos/NeoBank-UI">NeoBank UI Android</a></strong><br><em>Declarative UI & Scalable Fintech Experience.</em><br><br><strong><a href="https://github.com/JastinBolanos/NeoBank-UI/releases/download/v1.1.0/NeoBankUI.apk">Download APK</a></strong>
       </td>
       <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
-        <img src="URL_DEL_ICONO_AQUI" width="110" /><br><br>
-        <strong><a href="URL_DEL_REPO_AQUI">Próxima App</a></strong><br><em>Declarative UI & [Tu Enfoque Aquí].</em><br><br><strong><a href="URL_DEL_APK_AQUI">Download APK</a></strong>
+        <img src="https://raw.githubusercontent.com/JastinBolanos/English-Core/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="110" style="border-radius: 24px;" /><br><br>
+        <strong><a href="https://github.com/JastinBolanos/English-Core">English</a></strong><br><em>Comprehensive English Learning Platform.</em><br><br><strong><a href="https://github.com/JastinBolanos/English-Core">Download APK</a></strong>
       </td>
     </tr>
   </table>
