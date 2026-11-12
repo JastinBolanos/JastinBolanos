@@ -8,7 +8,7 @@
       <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
         <img src="https://github.com/user-attachments/assets/e9e467c6-0193-490e-8206-e1aa6eb8d620" width="110" /><br><br>
         <strong><a href="https://github.com/JastinBolanos/ExpenSync">ExpenSync</a></strong><br>
-        <em>Gestor de gastos offline-first.<br>Kotlin, Jetpack Compose, Clean Arch & Supabase.</em><br><br>
+        <em>Expense manager offline-first.<br>Kotlin, Jetpack Compose, Clean Architecture & Supabase.</em><br><br>
         <strong><a href="https://github.com/JastinBolanos/ExpenSync">Download APK</a></strong>
       </td>
       <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
