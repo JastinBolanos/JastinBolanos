@@ -6,12 +6,22 @@
   <table border="0" frame="void" rules="none" style="border: none; border-collapse: collapse; background: transparent;">
     <tr style="border: none;">
       <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
-        <img src="https://github.com/user-attachments/assets/aa1a4980-e0b3-46f6-9e29-d41f9e9e6276" width="110" /><br><br>
-        <strong><a href="https://github.com/JastinBolanos/ExpenSync">ExpenSync Android</a></strong><br><em>Coming soon.</em><br><br><strong><a href="https://github.com/JastinBolanos/ExpenSync">Download APK</a></strong>
+        <img src="https://github.com/user-attachments/assets/e9e467c6-0193-490e-8206-e1aa6eb8d620" width="110" /><br><br>
+        <strong><a href="https://github.com/JastinBolanos/ExpenSync">ExpenSync</a></strong><br>
+        <em>Gestor de gastos offline-first.<br>Kotlin, Jetpack Compose, Clean Arch & Supabase.</em><br><br>
+        <strong><a href="https://github.com/JastinBolanos/ExpenSync">Download APK</a></strong>
       </td>
       <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
-        <img src="https://github.com/user-attachments/assets/2e080361-8be6-48d3-a737-58be5f46930d" width="110" /><br><br>
-        <strong><a href="https://github.com/JastinBolanos/Vault-OfflineFirst">Vault Android</a></strong><br><em>Offline First & Resilient Architecture.</em><br><br><strong><a href="https://github.com/JastinBolanos/Vault-OfflineFirst/releases/download/v1.2.0/BovedaKMP.apk">Download APK</a></strong>
+        <img src="https://github.com/user-attachments/assets/1eb068a0-3388-4094-acd9-f430f347f221" width="110" /><br><br>
+        <strong><a href="https://github.com/JastinBolanos/Vauntic">Vauntic</a></strong><br>
+        <em>Offline First & Resilient Architecture.<br>Fintech UI & Jetpack Compose.</em><br><br>
+        <strong><a href="https://github.com/JastinBolanos/Vauntic">Download APK</a></strong>
+      </td>
+      <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
+        <img src="https://github.com/user-attachments/assets/fb8b3a74-64cd-42c3-abe6-68ee07d002a8" width="110" /><br><br>
+        <strong><a href="https://github.com/JastinBolanos/SpeakIf">SpeakIf</a></strong><br>
+        <em>Interactive, offline English-learning platform.<br>Vite & Cloudflare Pages.</em><br><br>
+        <strong><a href="https://speakif.pages.dev">Visitar Web App</a></strong>
       </td>
     </tr>
   </table>
