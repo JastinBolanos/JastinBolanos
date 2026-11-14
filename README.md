@@ -12,12 +12,6 @@
         <strong><a href="https://github.com/JastinBolanos/ExpenSync">Download APK</a></strong>
       </td>
       <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
-        <img src="https://github.com/user-attachments/assets/1eb068a0-3388-4094-acd9-f430f347f221" width="110" /><br><br>
-        <strong><a href="https://github.com/JastinBolanos/Vauntic">Vauntic</a></strong><br>
-        <em>Offline First & Resilient Architecture.<br>Fintech UI & Jetpack Compose.</em><br><br>
-        <strong><a href="https://github.com/JastinBolanos/Vauntic">Download APK</a></strong>
-      </td>
-      <td width="33%" align="center" valign="top" style="border: none; background: transparent;">
         <img src="https://github.com/user-attachments/assets/fb8b3a74-64cd-42c3-abe6-68ee07d002a8" width="110" /><br><br>
         <strong><a href="https://github.com/JastinBolanos/SpeakIf">SpeakIf</a></strong><br>
         <em>Interactive, offline English-learning platform.<br>Vite & Cloudflare Pages.</em><br><br>
